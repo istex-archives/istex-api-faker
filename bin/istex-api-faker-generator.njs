@@ -14,7 +14,7 @@ var urls    = require('../urls-to-fake.js');
 var request = require('superagent');
 var async   = require('async');
 var fs      = require('fs');
-var faker   = require('Faker');
+var faker   = require('faker');
 var url     = require('url');
 var nconf   = require('nconf');
 nconf.argv().env()
