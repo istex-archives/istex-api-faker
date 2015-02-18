@@ -52,6 +52,7 @@ async.each(urls, function (reqData, cb) {
                      '_jqjsp(' + JSON.stringify(res.body, null, '  ') + ')', cb);
       } else {
         // json
+        res.body = fakeIstexApiJSON(JSON.parse(res.text));
         fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringify(res.body, null, '  '), cb);
       }
       console.log('Downloaded ' + reqData.url)
