@@ -19,6 +19,10 @@ var app     = express();
 var _       = require('lodash');
 var fs      = require('fs');
 var url     = require('url');
+var cors    = require('cors');
+
+// to allow cross domain (ajax)
+app.use(cors());
 
 // Home page to explain the fake api and 
 // give a quick access to each fake url
