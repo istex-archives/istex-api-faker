@@ -4,7 +4,7 @@
   "description": "ISTEX API faker. Create a Web server simulating the ISTEX API but only with few data.",
   "main": "app.js",
   "scripts": {
-    "test": "mocha",
+    "test": "node_modules/mocha/bin/mocha",
     "start": "bin/istex-api-faker.njs"
   },
   "repository": {
