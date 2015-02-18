@@ -28,13 +28,20 @@ var config = nconf.get();
 // download every ressources
 async.each(urls, function (reqData, cb) {
   reqData.url = url.format(reqData);
-  console.log('Downloading ' + reqData.url)
-  console.log('            to ' + reqData.filename)
   // execute the HTTP GET request
   request
     .get(reqData.url)
     .auth(config.username, config.password)
     .end(function (res) {
+      if (res.statusCode != 200) {
+        console.error('Cannot access to https://api.istex.fr [' + res.statusCode + ']');
+        if (res.statusCode == 403) {
+          console.error('see https://github.com/istex/istex-api-faker#mettre-%C3%A0-jour-les-donn%C3%A9es');
+        }
+        process.exit(1);
+      }
+      console.log('Downloaded ' + reqData.url)
+      console.log('           to ' + reqData.filename)
       res.body = fakeIstexApiJSON(res.body);
       fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringify(res.body), cb);
     });
