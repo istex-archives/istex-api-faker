@@ -1,1 +1,698 @@
-{"stats":{"elasticsearch":{"took":75,"timed_out":false,"_shards":{"total":160,"successful":160,"failed":0},"total":751809,"max_score":2.889876},"istex-data":{"took":25},"istex-rp":{"took":1004}},"total":751809,"hits":[{"genre":["Medicine, Science and Technology","Primary Document"],"title":"ea et voluptatibus ab","corpusName":"ecco","subject":[{"value":"exercitationem rerum itaque","lang":"eng"},{"value":"et sapiente eligendi","lang":"eng"},{"value":"quaerat rem quod","lang":"eng"},{"value":"quasi illo consequuntur","lang":"eng"},{"value":"et hic totam","lang":"eng"},{"value":"commodi non occaecati","lang":"eng"}],"undefined":[{"name":""}],"pubdate":"1711-01-01","language":["eng"],"id":"55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Social Sciences","Primary Document"],"author":[{"name":"Ned Greenholt"}],"title":"dolorem harum sit optio quia voluptas corporis","corpusName":"ecco","subject":[{"value":"dolorem vitae ducimus","lang":"eng"}],"pubdate":"1800-01-01","language":["eng"],"id":"EE1EE6D7ABB72EFBEB22819A8296A328D48D7809","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"title":"enim voluptatum ea","corpusName":"ecco","subject":[{"value":"qui optio nostrum","lang":"eng"},{"value":"fugiat praesentium amet","lang":"eng"},{"value":"officiis vitae ipsum","lang":"eng"},{"value":"vel et rerum","lang":"eng"},{"value":"qui aut molestiae","lang":"eng"},{"value":"dolorem sint aut","lang":"eng"}],"undefined":[{"name":""}],"pubdate":"1714-01-01","language":["eng"],"id":"A8D919028D3664CAA502993F5636032739145600","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"Antwon Kunde"}],"title":"laudantium atque totam alias explicabo omnis ea rem dolores eligendi","corpusName":"ecco","subject":[{"value":"deserunt et incidunt","lang":"eng"}],"pubdate":"1752-01-01","language":["eng"],"id":"769B4ED90A41C4EA90433FD344CE2EDBD419B009","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"Aron Stoltenberg"}],"title":"numquam omnis minima omnis placeat laudantium illum","corpusName":"ecco","subject":[{"value":"quibusdam numquam debitis","lang":"eng"},{"value":"a rem fugit","lang":"eng"},{"value":"aut odit minima","lang":"eng"}],"pubdate":"1794-01-01","language":["eng"],"id":"4BE993B738C50D7320ABD269AC8C0FD1DEB38380","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Book Review"],"author":[{"name":"Cicero Schowalter"}],"title":"nihil asperiores eos","corpusName":"nature","host":{"genre":[],"title":"dolores eveniet illo voluptatem aut sit","language":[]},"pubdate":"1964-07-04","copyrightdate":"1964","language":["eng"],"id":"ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4","fulltext":[{"type":"pdf","mimetype":"application/pdf","original":true,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/pdf"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/zip"},{"type":"txt","mimetype":"text/plain","original":false,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/txt"},{"type":"tei","mimetype":"application/tei+xml","original":false,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/tei"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/mods"}]},{"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"Jacky Quigley"}],"title":"occaecati et incidunt at maxime facilis sint nihil","corpusName":"ecco","subject":[{"value":"et doloribus voluptas","lang":"eng"},{"value":"saepe soluta modi","lang":"eng"}],"pubdate":"1790-01-01","language":["eng"],"id":"0D3873F72C8FD2EB308349B5239EA1AC80FF1752","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/mods"}],"covers":[],"annexes":[]},{"serie":{"genre":[],"title":"blanditiis amet mollitia","language":[]},"genre":[],"author":[{"name":"Annamae McLaughlin"}],"title":"est aperiam impedit sint ut tempore possimus iure quo quia","corpusName":"eebo","subject":[{"value":"ut rerum est","lang":"eng"},{"value":"aut recusandae optio","lang":"eng"},{"value":"odio sequi non","lang":"eng"},{"value":"vel iure nemo","lang":"eng"},{"value":"ipsam libero neque","lang":"eng"}],"pubdate":"1650","language":["eng"],"id":"D20B217E1EF6866920C1BC84C41F3E473F34F69E","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/mods"}],"covers":[],"annexes":[]},{"licensor":[{"name":"Richard Bayley 1745-1801"}],"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"Lillie Gutkowski"},{"name":"Alyce Reynolds"}],"title":"et est sequi est sint sapiente veritatis nostrum dolore","corpusName":"ecco","subject":[{"value":"natus quia quis","lang":"eng"},{"value":"sit quae ipsum","lang":"eng"},{"value":"eos amet est","lang":"eng"}],"undefined":[{"name":""},{"name":""},{"name":""}],"pubdate":"1793-01-01","language":["eng"],"printer":[{"name":"Thomas Swords 1764-1843"},{"name":"James Swords 1765-1846"}],"id":"7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"title":"consequatur temporibus nesciunt ab nemo ea","corpusName":"ecco","subject":[{"value":"iure earum quis","lang":"eng"},{"value":"omnis mollitia repudiandae","lang":"eng"},{"value":"repellat ea voluptatem","lang":"eng"},{"value":"ut distinctio incidunt","lang":"eng"},{"value":"non voluptate qui","lang":"eng"},{"value":"et provident iusto","lang":"eng"}],"undefined":[{"name":""}],"pubdate":"1719-01-01","language":["eng"],"id":"258D2804F69A2CD923366A54D1EA812DBA7430F0","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/mods"}],"covers":[],"annexes":[]}]}
+{
+  "stats": {
+    "elasticsearch": {
+      "took": 121,
+      "timed_out": false,
+      "_shards": {
+        "total": 160,
+        "successful": 160,
+        "failed": 0
+      },
+      "total": 751809,
+      "max_score": 2.889876
+    },
+    "istex-data": {
+      "took": 68
+    },
+    "istex-rp": {
+      "took": 1114
+    }
+  },
+  "total": 751809,
+  "hits": [
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "A treatise of diseases of the head, brain & nerves. With directions for their cure, and how many deplorable and sudden indispositions attending them, as apoplexies, epilepsies, palsies, &c. may be prevented, and consequently lives saved by the medicines herein prescrib'd. To which is subjoin'd a discourse of the nature, cause and cure of melancholy and vapours. By a physician.",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Brain",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Nervous system",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Head",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1711-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "John Hippisley d. 1748"
+        }
+      ],
+      "title": "Hippesley's drunken man. So here I am, after all, thanks to a strong brain, a steady gait, and sober understanding! ...",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Alcoholism",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1800-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "EE1EE6D7ABB72EFBEB22819A8296A328D48D7809",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "A treatise of diseases of the head, brain & nerves. With directions for their cure, and how many Deplorable and Sudden Indispositions attending them, as apoplexies, epilepsies, palsies, &c. may be prevented, and consequently Lives saved by the Medicines herein prescrib'd. To which is subjoin'd A discourse of the nature, cause and cure of melancholly and vapours. By a physician.",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Head",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Brain",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Nervous system",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1714-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "A8D919028D3664CAA502993F5636032739145600",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Thomas Simson 1696-1764"
+        }
+      ],
+      "title": "An inquiry how far the vital and animal actions of the more perfect animals can be accounted for independent of the brain. In five essays. Being the substance of the Chandos lectures for the year 1739, and some subsequent years. By Thomas Simson, M.D. chandos professor of Medicine and Anatomy in the University of St. Andrew's, and Honorary member of the College of Physicians at Edinburgh.",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Brain",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1752-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "769B4ED90A41C4EA90433FD344CE2EDBD419B009",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "William Patterson"
+        }
+      ],
+      "title": "Letters concerning the internal dropsy of the brain, to Charles William Quin, M.D. Fellow of the King's and Queen's College of Physicians, Physician General of his Majesty's Army in Ireland, and of the Royal Hospital for invalids near Dublin, from William Patterson, M.D. Fellow of the Royal Irish Academy, and corresponding Member of the London Medical Society.",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Brain",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Cerebral edema",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1794-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "4BE993B738C50D7320ABD269AC8C0FD1DEB38380",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Book Review"
+      ],
+      "author": [
+        {
+          "name": "BRAIN undefined"
+        }
+      ],
+      "title": "Brain Mechanisms and Models",
+      "corpusName": "nature",
+      "host": {
+        "genre": [],
+        "title": "Nature",
+        "language": []
+      },
+      "pubdate": "1964-07-04",
+      "copyrightdate": "1964",
+      "language": [
+        "eng"
+      ],
+      "id": "ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4",
+      "fulltext": [
+        {
+          "type": "pdf",
+          "mimetype": "application/pdf",
+          "original": true,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/pdf"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/zip"
+        },
+        {
+          "type": "txt",
+          "mimetype": "text/plain",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/txt"
+        },
+        {
+          "type": "tei",
+          "mimetype": "application/tei+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/tei"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/mods"
+        }
+      ]
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Charles William Quin b. 1755"
+        }
+      ],
+      "title": "A treatise on the dropsy of the brain, illustrated by a variety of cases. To which are added, observations on the use and effects of the digitalis purpurea in dropsies. By Charles William Quin, M.D. ....",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Digitalis (Drug)",
+          "lang": "eng"
+        },
+        {
+          "value": "Hydrocephalus",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1790-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "0D3873F72C8FD2EB308349B5239EA1AC80FF1752",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "Early English books online",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Grantham, Thomas d. 1664"
+        }
+      ],
+      "title": "October the 22. 1649. The three-penny cooks fat in the fire, or rhe [sic] downefall of as-in-presentis; or the schoole-master under the black-rod. Or the brain-breakers breaker newly broke out againe",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "Latin language",
+          "lang": "eng"
+        },
+        {
+          "value": "Study and teaching",
+          "lang": "eng"
+        },
+        {
+          "value": "Greek language",
+          "lang": "eng"
+        },
+        {
+          "value": "Study and teaching",
+          "lang": "eng"
+        },
+        {
+          "value": "Education",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1650",
+      "language": [
+        "eng"
+      ],
+      "id": "D20B217E1EF6866920C1BC84C41F3E473F34F69E",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "licensor": [
+        {
+          "name": "Richard Bayley 1745-1801"
+        }
+      ],
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "John B. (John Bowne) Hicks"
+        },
+        {
+          "name": "Richard Bayley 1745-1801"
+        }
+      ],
+      "title": "An inaugural dissertation on the compression of the brain from concussion. Submitted to the public examination of the faculty of physic, under the authority of the trustees of Columbia College in the state of New-York: William Samuel Johnson, LL.D. president; for the degree of Doctor of Physic; on the thirtieth day of April, 1793. By John B. Hicks, citizen of the state of New-York. [One line from Ledran].",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Columbia College (New York, N.Y.)",
+          "lang": "eng"
+        },
+        {
+          "value": "Brain",
+          "lang": "eng"
+        },
+        {
+          "value": "Concussion",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1793-01-01",
+      "language": [
+        "eng"
+      ],
+      "printer": [
+        {
+          "name": "Thomas Swords 1764-1843"
+        },
+        {
+          "name": "James Swords 1765-1846"
+        }
+      ],
+      "id": "7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "A treatise of diseases of the head, brain and nerves With directions for their cure, and how several deplorable and sudden indispositions attending them, as apoplexies, epilepsies, palsies, &c. may be prevented, and consequently many lives saved by the medicines herein prescrib'd. To which is subjoin'd, a discourse of the nature, real cause and certain cure of melancholly in men, and vapours in women. By a physician.",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "Brain",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Nervous system",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        },
+        {
+          "value": "Head",
+          "lang": "eng"
+        },
+        {
+          "value": "Diseases",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1719-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "258D2804F69A2CD923366A54D1EA812DBA7430F0",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    }
+  ]
+}

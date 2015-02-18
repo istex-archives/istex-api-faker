@@ -15,6 +15,15 @@ urls.push({
 });
 
 urls.push({
+  filename: 'corpus_jsonp.json',
+
+  protocol: 'https',
+  hostname: 'api.istex.fr',
+  pathname: '/corpus/',
+  query: { callback: '_jqjsp' }
+});
+
+urls.push({
   filename: 'document_q_eq_star.json',
 
   protocol: 'https',

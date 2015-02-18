@@ -25,6 +25,9 @@ nconf.argv().env()
   });
 var config = nconf.get();
 
+// do not parse JSON
+delete request.parse['application/json'];
+
 // download every ressources
 async.each(urls, function (reqData, cb) {
   reqData.url = url.format(reqData);
@@ -32,7 +35,7 @@ async.each(urls, function (reqData, cb) {
   request
     .get(reqData.url)
     .auth(config.username, config.password)
-    .end(function (res) {
+    .end(function (err, res) {
       if (res.statusCode != 200) {
         console.error('Cannot access to https://api.istex.fr [' + res.statusCode + ']');
         if (res.statusCode == 403) {
@@ -40,9 +43,14 @@ async.each(urls, function (reqData, cb) {
         }
         process.exit(1);
       }
+      try {
+        res.body = JSON.parse(res.text);
+        res.body = fakeIstexApiJSON(res.body);
+        fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringyfy(res.body, null, '  '), cb);
+      } catch (err) {
+        fs.writeFile(__dirname + '/../data/' + reqData.filename, res.text, cb);
+      }
       console.log('Downloaded ' + reqData.url)
-      res.body = fakeIstexApiJSON(res.body);
-      fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringify(res.body), cb);
     });
 }, function (err) {
   if (err) console.error(err);

@@ -1,1 +1,45 @@
-{"total":8216946,"hits":[{"id":"FCDBEE211B50C62003172E9172944864CDBA0536","title":"qui ut et saepe rem quia velit incidunt voluptatem"},{"id":"B6AD2A175E6788A8B89587545F13AD3D4EF5D727","title":"quaerat et eos porro libero tenetur ad eveniet"},{"id":"22DF1CEC8A97776D664B582A5A5253D45F199687","title":"minus libero eveniet"},{"id":"471EF306FDDF1927F90499C12C0156C801352F7A","title":"qui quia ullam veniam dignissimos officia quasi odio"},{"id":"07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77","title":"sunt culpa sint nobis autem dolorum vero ratione"},{"id":"C9950A4F237867205CAD9BEF87CC41E9B0BD6A83","title":"reprehenderit dolores et soluta rem illo ratione"},{"id":"B280F63ECD24300AC232C8E38E27B7E6B50C4AC9","title":"maiores officia quaerat"},{"id":"1A2443911969AFE7780CD9AF39C0C5AE0445DE3D","title":"sint ea libero voluptates"},{"id":"38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0","title":"dolores consequatur rerum ut quia quia doloremque beatae"},{"id":"A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E","title":"eligendi quibusdam dicta facilis ut voluptas in natus"}]}
+{
+  "total": 8216946,
+  "hits": [
+    {
+      "id": "FCDBEE211B50C62003172E9172944864CDBA0536",
+      "title": "Catalogue of a miscellaneous exhibition, of Mr. Jervais's beautiful pictures in stained glass; and other elegant articles; now exhibiting every day, from eleven 'till three, at Mr. Wynne's in Trumpington-Street. ..."
+    },
+    {
+      "id": "B6AD2A175E6788A8B89587545F13AD3D4EF5D727",
+      "title": "Forfeitures under-mentioned in the county of Galway, consisting of the farms and lands following, will be expos'd to sale at Chichester-house, Dublin, on Thursday the 10th day of June, 1703. By Cant to the best bidder."
+    },
+    {
+      "id": "22DF1CEC8A97776D664B582A5A5253D45F199687",
+      "title": "Vox stellarum; being an almanack for the year of human redemption 1709, it being the first after bissextile or leap-year. Wherein contained, first, a table of the terms, with their returns; secondly a table of all the kings and queens reigns, from K. Egbert to this present reign as also the fulls, changes, and quarters of the moon, her rising and setting, time of high water at near one hundred places, the rising, setting and southing of the seven stars, with other fixed stars of note the rising and setting of the sun, mutual aspects and weather, with astrological observations, eclipses, and a large chronology of many remarkable things: the like not in any extant. Unto which is added, something touching the right observation of the holy feast of Easter with a strange and wonderful prophecy of Joseph Ben-Israel the wandering Jew, at Airacan in muscovia, and also another wonderful heiroglyphic being a ram and a dragon fighting, and likewise two armies in Battalia, with the meaning of all being delighful and i hope as well worth the reader's observation as that last year, which signified the thumping of the French in Flanders, which with my predictions on the months exactly came to pass. This almanack is rectify'd chiefly to the Meridian of London, whose latitude is 51 degrees 32 minutes north, but will serve for any part of Great Britain or Ireland. By Francis Moore Licens'd physician, and student in astrology."
+    },
+    {
+      "id": "471EF306FDDF1927F90499C12C0156C801352F7A",
+      "title": "[G]rant's enigmas, fairs, &c. 1789."
+    },
+    {
+      "id": "07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77",
+      "title": "The starry-interpreter: being a most useful and compleat almanack for the year of Our Lord, 1720. Being bissextile or leap-year and from the creation of the world, 5669. Containing astrological judgments for the weather, and monthly observations, with a general judgment on the quarterly ingresses, eclipses, and other configurations of heaven happening therein. Also, the sun's rising and setting, length of the day and night, moon's southing, change, full, quarters, dominion in man, time of high water, the hour of the night by her shining on a sun-dial: likewise the mutual aspects, and time of the moon's conjuction with the five planets: to which is added a regal table, the oriental and occidental rising and setting of the five planets before and after the sun, the terms and their returns, the swearing-days of the masters of the several corporations, the four quarterly-assemblies in the city of Dublin, with the fairs and high-ways, and usual holy-days. Calculated according to art for the honourable city of Dublin, whose Pole-Artick is elevated above the horizon 53 deg. 20 min. and may indifferently serve all Ireland, and Great-Britain. By Peter La Bossiere student in the Mathematical and Colestial Sciences."
+    },
+    {
+      "id": "C9950A4F237867205CAD9BEF87CC41E9B0BD6A83",
+      "title": "The Royal kalendar; or Complete and correct annual register for England, Scotland, Ireland, and America, for the year 1775; Including a compleat and correct list of the 14th Parliament of Great Britain, summoned to meet for their first session on the 29th of November 1774. Upon a new and more extensive plan than any hitherto offered to the public: Containing. England. I. Complete and correct list of both Houses of Parliament; all the state, law, revenue, and public offices, at the court, in the city of London, and different parts of the Kingdom; the army and navy; baronets, universities, hospitals, &c. &c. Scotland. II. All the peers, baronets, state, law, revenue, and public offices, universities, physicians. &c. Ireland. III. Both House of Parliament, a complete list of the baronets, all the law, state revenue, and public offices, bankers, deans, &c. &c. America. IV. The military and civil establishments; governors law and revenue officers agents, &c. &c. And corrected at the respective offices."
+    },
+    {
+      "id": "B280F63ECD24300AC232C8E38E27B7E6B50C4AC9",
+      "title": "The universal Scots almanack, for the year of Our Lord, M.DCC.LXI. Being the first after leap year, is, with the greatest submission, dedicated to the right honourable Thomas Earl of Dundonald, and to the honourable George Drummond, Christopher Rhodes, Alexander Udny, Richard Dauber, Esqrs. commissioners and governors for the management of his Majesty's revenue of excise in Scotland, by their honours most humble, and most obedient servant, John Chapman."
+    },
+    {
+      "id": "1A2443911969AFE7780CD9AF39C0C5AE0445DE3D",
+      "title": "Report from the committee appointed to examine the physicians who have attended His Majesty, during his illness, touching the state of His Majesty's health."
+    },
+    {
+      "id": "38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0",
+      "title": "To the worthy livery of the city of London. Gentlemen, your votes, interest and poll, are earnestly desired for Barlow Trecothick, Esq; to be one of your representatives in Parliament, being a gentleman zealously affected to His Majesty King George, our happy constitution in church and state, and a great promoter of the trade and manufactures of this kingdom in general, and of this city of particular. ..."
+    },
+    {
+      "id": "A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E",
+      "title": "A letter from Captain Tom to the Mobb, now rais'd for Dr. Sacheverel."
+    }
+  ]
+}

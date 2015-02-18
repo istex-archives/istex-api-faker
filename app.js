@@ -56,9 +56,18 @@ app.get('/', function (req, res) {
 // if it doesn't match, just return 404
 app.get('*', function (req, res) {
 
+  // cleanup querystring like _1424268118509
+  // used by jquery-jsonp to disable the cache
+  Object.keys(req.query).forEach(function (k) {
+    if (/^_[0-9]+/.test(k)) {
+      delete req.query[k];
+    }
+  });
+
   var urlFound = false;
   urls.forEach(function (item) {
-    if (item.pathname == req.path && _.isEqual(item.query, req.query)) {
+    if (item.pathname == req.path &&
+        _.isEqual(item.query, req.query)) {
       // build the filepath and check if available
       var filepath = __dirname + '/data/' + item.filename;
       if (!fs.existsSync(filepath)) return;
