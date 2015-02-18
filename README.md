@@ -1,2 +1,3 @@
 # istex-api-faker
-Create a Web server simulating the ISTEX API but only with few data.
+
+Programme permettant de créer un serveur Web simulant une API Istex avec quelques données.
