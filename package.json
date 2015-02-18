@@ -1,0 +1,19 @@
+{
+  "name": "istex-api-faker",
+  "version": "1.0.0",
+  "description": "ISTEX API faker. Create a Web server simulating the ISTEX API but only with few data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/istex/istex-api-faker"
+  },
+  "author": "Stéphane Gully <stephane.gully@gmail.com>",
+  "license": "CeCILL",
+  "bugs": {
+    "url": "https://github.com/istex/istex-api-faker/issues"
+  },
+  "homepage": "https://github.com/istex/istex-api-faker"
+}
