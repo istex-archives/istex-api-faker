@@ -54,10 +54,11 @@ async.each(urls, function (reqData, cb) {
  * Replace real data by faked one
  */
 function fakeIstexApiJSON(body) {
+  if (!body.hits) return body;
   body.hits.map(function (doc) {
     // doc.title
     if (doc.title) {
-      doc.title = faker.Lorem.sentence();
+      doc.title = faker.lorem.sentence();
     }
     // doc.doi
     if (doc.doi) {
@@ -75,25 +76,25 @@ function fakeIstexApiJSON(body) {
       if (doc.serie.genre) {
         doc.serie.genre.map(function (g) {
           if (g.value) {
-            g.value = faker.Lorem.words().join(' ');
+            g.value = faker.lorem.words().join(' ');
           }
           return g;
         });
       }
       // doc.serie.title
       if (doc.serie.title) {
-        doc.serie.title = faker.Lorem.sentence();
+        doc.serie.title = faker.lorem.sentence();
       }
     }
     // doc.abstract
     if (doc.abstract) {
-      doc.abstract = faker.Lorem.paragraph();
+      doc.abstract = faker.lorem.paragraph();
     }
     // doc.genre
     if (doc.genre) {
       doc.genre.map(function (g) {
         if (g.value) {
-          g.value = faker.Lorem.words().join(' ');
+          g.value = faker.lorem.words().join(' ');
         }
         return g;
       });
@@ -102,7 +103,7 @@ function fakeIstexApiJSON(body) {
     if (doc.subject) {
       doc.subject.map(function (s) {
         if (s.value) {
-          s.value = faker.Lorem.words().join(' ');
+          s.value = faker.lorem.words().join(' ');
         }
         return s;
       });
@@ -111,13 +112,13 @@ function fakeIstexApiJSON(body) {
     if (doc.author) {
       doc.author.map(function (a) {
         if (a.name) {
-          a.name = faker.Name.firstName() + ' ' + faker.Name.lastName();
+          a.name = faker.name.firstName() + ' ' + faker.name.lastName();
         }
         // doc.author.affiliations
         if (a.affiliations) {
           a.affiliations.map(function (aff) {
-            aff = faker.Company.companyName();
-            aff += ', ' + faker.Address.usState();
+            aff = faker.company.companyName();
+            aff += ', ' + faker.address.usState();
             return aff;
           });
         }
@@ -130,7 +131,7 @@ function fakeIstexApiJSON(body) {
       if (doc.host.genre) {
         doc.host.genre.map(function (g) {
           if (g.value) {
-            g.value = faker.Lorem.words().join(' ');
+            g.value = faker.lorem.words().join(' ');
           }
           return g;
         });
@@ -149,7 +150,7 @@ function fakeIstexApiJSON(body) {
       }
       // doc.host.title
       if (doc.host.title) {
-        doc.host.title = faker.Lorem.sentence();
+        doc.host.title = faker.lorem.sentence();
       }
     }
     return doc;
