@@ -4,6 +4,7 @@
  */
 
 var urls = [];
+
 urls.push({
   filename: 'document_q_eq_star.json',
 
@@ -12,6 +13,7 @@ urls.push({
   pathname: '/document/',
   query: { 'q': '*' }
 });
+
 urls.push({
   filename: 'document_q_eq_star_and_output_eq_star.json',
 
@@ -19,6 +21,15 @@ urls.push({
   hostname: 'api.istex.fr',
   pathname: '/document/',
   query: { 'q': '*', 'output': '*' }
+});
+
+urls.push({
+  filename: 'corpus.json',
+
+  protocol: 'https',
+  hostname: 'api.istex.fr',
+  pathname: '/corpus/',
+  query: { }
 });
 
 module.exports = urls;
