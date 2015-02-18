@@ -1,1 +1,26 @@
-{}
+[
+  {
+    "key": "elsevier",
+    "doc_count": 5919848
+  },
+  {
+    "key": "springer",
+    "doc_count": 1613100
+  },
+  {
+    "key": "nature",
+    "doc_count": 345671
+  },
+  {
+    "key": "ecco",
+    "doc_count": 206314
+  },
+  {
+    "key": "eebo",
+    "doc_count": 124967
+  },
+  {
+    "key": "wiley",
+    "doc_count": 7046
+  }
+]

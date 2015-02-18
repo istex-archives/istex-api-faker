@@ -1,1 +1,653 @@
-{}
+{
+  "stats": {
+    "elasticsearch": {
+      "took": 25,
+      "timed_out": false,
+      "_shards": {
+        "total": 160,
+        "successful": 160,
+        "failed": 0
+      },
+      "total": 751809,
+      "max_score": 2.889876
+    },
+    "istex-data": {
+      "took": 84
+    },
+    "istex-rp": {
+      "took": 628
+    }
+  },
+  "total": 751809,
+  "hits": [
+    {
+      "serie": {
+        "genre": [],
+        "title": "id eum similique vel",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Leo Renner"
+        }
+      ],
+      "title": "cumque dolorem sunt provident eum",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "minus eligendi ratione",
+          "lang": "eng"
+        },
+        {
+          "value": "voluptatem dolores minima",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1695",
+      "language": [
+        "eng"
+      ],
+      "id": "4358BF1FE3E25D7464111D4F089F265DB991FA3E",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "rerum qui aperiam facere consequatur sed maxime",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Alfreda Gutmann"
+        }
+      ],
+      "title": "fugit eum natus recusandae voluptas cum nam in quidem",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "aliquid tenetur dolores",
+          "lang": "eng"
+        },
+        {
+          "value": "error quam eligendi",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1682",
+      "language": [
+        "eng"
+      ],
+      "id": "B91DF34EF230361541016996669C76585F4A578A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Kaia Hamill"
+        }
+      ],
+      "title": "consequatur eos neque reiciendis harum saepe",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "qui dolores placeat",
+          "lang": "eng"
+        },
+        {
+          "value": "saepe pariatur cumque",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1790-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "5B150DCD73F5A66D310997819DAFA43270CD8427",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "alias unde veritatis autem a qui quo ratione",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Tre Rodriguez"
+        },
+        {
+          "name": "Bettye Wintheiser"
+        }
+      ],
+      "title": "laudantium consequuntur modi consequatur itaque optio",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "est praesentium facere",
+          "lang": "eng"
+        },
+        {
+          "value": "eum asperiores corrupti",
+          "lang": "eng"
+        },
+        {
+          "value": "culpa et occaecati",
+          "lang": "eng"
+        },
+        {
+          "value": "nostrum mollitia quia",
+          "lang": "eng"
+        },
+        {
+          "value": "ipsa autem ut",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1684",
+      "language": [
+        "eng",
+        "lat"
+      ],
+      "id": "954340B665F3049BAB2ED9C6BCA9DD5630786B9A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "aut placeat dolorem ipsam porro rem",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Crystal Williamson"
+        }
+      ],
+      "title": "tenetur rerum incidunt laboriosam sit autem rerum voluptatem",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "aperiam et doloribus",
+          "lang": "eng"
+        },
+        {
+          "value": "distinctio aut accusamus",
+          "lang": "eng"
+        },
+        {
+          "value": "qui aut omnis",
+          "lang": "eng"
+        },
+        {
+          "value": "quibusdam repudiandae culpa",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "MDCLXXXI [1681]",
+      "language": [
+        "eng"
+      ],
+      "id": "4B87EEE09474A2F1BF62C4855088AE891F7A3A6A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Preston Becker"
+        }
+      ],
+      "title": "expedita amet ut necessitatibus a eos beatae veritatis voluptatum similique",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "dolorem nostrum eius",
+          "lang": "eng"
+        },
+        {
+          "value": "sunt iure aut",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1792-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "70CDAAEA65A6A999A887AE35D4D0A264D4D3077D",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Murray Wilkinson"
+        }
+      ],
+      "title": "dolorem nihil est occaecati veniam et similique aut",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "dolores iusto consequatur",
+          "lang": "eng"
+        },
+        {
+          "value": "recusandae ut corporis",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1768-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "title": "placeat eius incidunt aut ullam ipsum eos",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "et illum ex",
+          "lang": "eng"
+        },
+        {
+          "value": "aliquid dignissimos fugit",
+          "lang": "eng"
+        },
+        {
+          "value": "eaque omnis et",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1777-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "788CA130828F19CF3D2AE909D1F87EE3BF7A1F09",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "vel quasi aperiam dignissimos",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Aileen Spencer"
+        },
+        {
+          "name": "Frederique Gutmann"
+        }
+      ],
+      "title": "illum vel laudantium unde",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "animi aliquam ut",
+          "lang": "eng"
+        },
+        {
+          "value": "soluta dolorum aliquam",
+          "lang": "eng"
+        },
+        {
+          "value": "numquam eum accusamus",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1681",
+      "language": [
+        "eng"
+      ],
+      "id": "707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Cali Wiza"
+        }
+      ],
+      "title": "voluptatem reprehenderit ex voluptatem",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "et eaque enim",
+          "lang": "eng"
+        },
+        {
+          "value": "consequatur maxime explicabo",
+          "lang": "eng"
+        },
+        {
+          "value": "aspernatur dolorem debitis",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1797-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "1990713FDB34DC889032D35B56B1B4065281FB4F",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    }
+  ]
+}

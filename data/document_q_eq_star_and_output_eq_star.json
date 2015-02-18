@@ -1,1 +1,573 @@
-{}
+{
+  "total": 8216946,
+  "hits": [
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Alaina Dooley"
+        }
+      ],
+      "title": "sint amet sit ipsam hic atque dolore eos",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "provident voluptate perferendis",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1784-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "FCDBEE211B50C62003172E9172944864CDBA0536",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/FCDBEE211B50C62003172E9172944864CDBA0536/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/FCDBEE211B50C62003172E9172944864CDBA0536/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/FCDBEE211B50C62003172E9172944864CDBA0536/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/FCDBEE211B50C62003172E9172944864CDBA0536/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "title": "vel sed error omnis consequatur inventore dolor",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "quae iure voluptatibus",
+          "lang": "eng"
+        },
+        {
+          "value": "in quia quibusdam",
+          "lang": "eng"
+        },
+        {
+          "value": "adipisci molestiae architecto",
+          "lang": "eng"
+        },
+        {
+          "value": "optio omnis ipsum",
+          "lang": "eng"
+        },
+        {
+          "value": "tempora et eos",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1703-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "B6AD2A175E6788A8B89587545F13AD3D4EF5D727",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B6AD2A175E6788A8B89587545F13AD3D4EF5D727/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B6AD2A175E6788A8B89587545F13AD3D4EF5D727/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B6AD2A175E6788A8B89587545F13AD3D4EF5D727/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B6AD2A175E6788A8B89587545F13AD3D4EF5D727/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Ezra Parisian"
+        }
+      ],
+      "title": "molestiae dolores veniam in nisi",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "eum iste autem",
+          "lang": "eng"
+        },
+        {
+          "value": "ex laboriosam quae",
+          "lang": "eng"
+        },
+        {
+          "value": "vel natus neque",
+          "lang": "eng"
+        },
+        {
+          "value": "esse est et",
+          "lang": "eng"
+        },
+        {
+          "value": "sint neque sit",
+          "lang": "eng"
+        },
+        {
+          "value": "est sint repudiandae",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1709-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "22DF1CEC8A97776D664B582A5A5253D45F199687",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/22DF1CEC8A97776D664B582A5A5253D45F199687/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/22DF1CEC8A97776D664B582A5A5253D45F199687/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/22DF1CEC8A97776D664B582A5A5253D45F199687/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/22DF1CEC8A97776D664B582A5A5253D45F199687/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Laney Lebsack"
+        }
+      ],
+      "title": "tenetur in voluptatem",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "quia in repellat",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1789-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "471EF306FDDF1927F90499C12C0156C801352F7A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/471EF306FDDF1927F90499C12C0156C801352F7A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/471EF306FDDF1927F90499C12C0156C801352F7A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/471EF306FDDF1927F90499C12C0156C801352F7A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/471EF306FDDF1927F90499C12C0156C801352F7A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Amira Harber"
+        }
+      ],
+      "title": "quia commodi possimus",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "animi exercitationem quibusdam",
+          "lang": "eng"
+        },
+        {
+          "value": "et autem recusandae",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1720-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/07CAEFCC4E320FF4813D98CE4B0F9F91C465DC77/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "title": "maxime ut debitis sunt rem et temporibus qui",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "qui autem explicabo",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1775-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "C9950A4F237867205CAD9BEF87CC41E9B0BD6A83",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/C9950A4F237867205CAD9BEF87CC41E9B0BD6A83/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/C9950A4F237867205CAD9BEF87CC41E9B0BD6A83/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/C9950A4F237867205CAD9BEF87CC41E9B0BD6A83/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/C9950A4F237867205CAD9BEF87CC41E9B0BD6A83/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "General Reference",
+        "Primary Document"
+      ],
+      "title": "ipsa repellat voluptatum omnis sed eum sed rerum",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "eos et enim",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1761-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "B280F63ECD24300AC232C8E38E27B7E6B50C4AC9",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B280F63ECD24300AC232C8E38E27B7E6B50C4AC9/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B280F63ECD24300AC232C8E38E27B7E6B50C4AC9/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B280F63ECD24300AC232C8E38E27B7E6B50C4AC9/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B280F63ECD24300AC232C8E38E27B7E6B50C4AC9/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "title": "velit itaque debitis reprehenderit consectetur",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "eligendi cupiditate debitis",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1788-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "1A2443911969AFE7780CD9AF39C0C5AE0445DE3D",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1A2443911969AFE7780CD9AF39C0C5AE0445DE3D/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1A2443911969AFE7780CD9AF39C0C5AE0445DE3D/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1A2443911969AFE7780CD9AF39C0C5AE0445DE3D/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1A2443911969AFE7780CD9AF39C0C5AE0445DE3D/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Kathryne Heidenreich"
+        }
+      ],
+      "title": "sit vel ut",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "et qui rerum",
+          "lang": "eng"
+        },
+        {
+          "value": "saepe distinctio hic",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1768-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/38BDF2C7F9768D3FE3C66A32A35BE8EC5026C0D0/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Maximilian Zboncak"
+        }
+      ],
+      "title": "rem fugiat qui quia distinctio et et",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "corporis maxime ratione",
+          "lang": "eng"
+        },
+        {
+          "value": "reiciendis neque eligendi",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1710-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A887C8D63B1CEC6AAC882659EFD8E4ABBC16868E/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    }
+  ]
+}

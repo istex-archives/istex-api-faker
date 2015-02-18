@@ -1,1 +1,698 @@
-{}
+{
+  "stats": {
+    "elasticsearch": {
+      "took": 20,
+      "timed_out": false,
+      "_shards": {
+        "total": 160,
+        "successful": 160,
+        "failed": 0
+      },
+      "total": 751809,
+      "max_score": 2.889876
+    },
+    "istex-data": {
+      "took": 83
+    },
+    "istex-rp": {
+      "took": 980
+    }
+  },
+  "total": 751809,
+  "hits": [
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "cumque magnam totam modi optio voluptate voluptatem expedita vero",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "iure provident minus",
+          "lang": "eng"
+        },
+        {
+          "value": "id est quia",
+          "lang": "eng"
+        },
+        {
+          "value": "hic pariatur in",
+          "lang": "eng"
+        },
+        {
+          "value": "tenetur vero sunt",
+          "lang": "eng"
+        },
+        {
+          "value": "nihil ipsam deserunt",
+          "lang": "eng"
+        },
+        {
+          "value": "perferendis quia modi",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1711-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/55F2BD4CEF5C71EF3C1780BDAF0E47C8ACD479E3/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Murphy Hegmann"
+        }
+      ],
+      "title": "quam consequatur rem magni et dolor",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "repellat repudiandae ab",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1800-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "EE1EE6D7ABB72EFBEB22819A8296A328D48D7809",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/EE1EE6D7ABB72EFBEB22819A8296A328D48D7809/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "beatae repellat omnis praesentium porro laborum",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "blanditiis est quasi",
+          "lang": "eng"
+        },
+        {
+          "value": "omnis sint praesentium",
+          "lang": "eng"
+        },
+        {
+          "value": "iure quia quis",
+          "lang": "eng"
+        },
+        {
+          "value": "ducimus doloremque assumenda",
+          "lang": "eng"
+        },
+        {
+          "value": "excepturi aut eveniet",
+          "lang": "eng"
+        },
+        {
+          "value": "aut officiis dicta",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1714-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "A8D919028D3664CAA502993F5636032739145600",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/A8D919028D3664CAA502993F5636032739145600/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Rogers Keeling"
+        }
+      ],
+      "title": "nihil maxime consequatur soluta quas rem",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "natus et amet",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1752-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "769B4ED90A41C4EA90433FD344CE2EDBD419B009",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/769B4ED90A41C4EA90433FD344CE2EDBD419B009/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Andrew O'Kon"
+        }
+      ],
+      "title": "sed velit adipisci beatae",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "voluptas laborum ex",
+          "lang": "eng"
+        },
+        {
+          "value": "omnis voluptas fuga",
+          "lang": "eng"
+        },
+        {
+          "value": "aut qui alias",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1794-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "4BE993B738C50D7320ABD269AC8C0FD1DEB38380",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4BE993B738C50D7320ABD269AC8C0FD1DEB38380/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Book Review"
+      ],
+      "author": [
+        {
+          "name": "Bryon Wintheiser"
+        }
+      ],
+      "title": "est enim aperiam repellat alias",
+      "corpusName": "nature",
+      "host": {
+        "genre": [],
+        "title": "nam tenetur praesentium dolorem",
+        "language": []
+      },
+      "pubdate": "1964-07-04",
+      "copyrightdate": "1964",
+      "language": [
+        "eng"
+      ],
+      "id": "ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4",
+      "fulltext": [
+        {
+          "type": "pdf",
+          "mimetype": "application/pdf",
+          "original": true,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/pdf"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/zip"
+        },
+        {
+          "type": "txt",
+          "mimetype": "text/plain",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/txt"
+        },
+        {
+          "type": "tei",
+          "mimetype": "application/tei+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/fulltext/tei"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/ED59C16DD4ABBF75ACF7307FDBD63B55BFCAD2E4/metadata/mods"
+        }
+      ]
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Laura Sauer"
+        }
+      ],
+      "title": "esse sit commodi nam placeat",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "non exercitationem voluptatum",
+          "lang": "eng"
+        },
+        {
+          "value": "quibusdam unde corrupti",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1790-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "0D3873F72C8FD2EB308349B5239EA1AC80FF1752",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/0D3873F72C8FD2EB308349B5239EA1AC80FF1752/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "ut dolores repellendus dolore molestias animi fugit",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Van Wilderman"
+        }
+      ],
+      "title": "qui est qui culpa reiciendis sunt",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "ut qui mollitia",
+          "lang": "eng"
+        },
+        {
+          "value": "aut nam doloribus",
+          "lang": "eng"
+        },
+        {
+          "value": "aut alias ducimus",
+          "lang": "eng"
+        },
+        {
+          "value": "ut consequatur facilis",
+          "lang": "eng"
+        },
+        {
+          "value": "omnis dignissimos earum",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1650",
+      "language": [
+        "eng"
+      ],
+      "id": "D20B217E1EF6866920C1BC84C41F3E473F34F69E",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/D20B217E1EF6866920C1BC84C41F3E473F34F69E/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "licensor": [
+        {
+          "name": "Richard Bayley 1745-1801"
+        }
+      ],
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Hettie Dickens"
+        },
+        {
+          "name": "Clemens Daniel"
+        }
+      ],
+      "title": "impedit libero dolores distinctio iste architecto nihil inventore hic ex",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "explicabo dolore voluptas",
+          "lang": "eng"
+        },
+        {
+          "value": "velit eos et",
+          "lang": "eng"
+        },
+        {
+          "value": "laboriosam est culpa",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1793-01-01",
+      "language": [
+        "eng"
+      ],
+      "printer": [
+        {
+          "name": "Thomas Swords 1764-1843"
+        },
+        {
+          "name": "James Swords 1765-1846"
+        }
+      ],
+      "id": "7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/7BDD55AE1F9D2CC2967BD88A9AE4DC560C62DA18/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "title": "est eos expedita aliquid et ut",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "amet esse omnis",
+          "lang": "eng"
+        },
+        {
+          "value": "pariatur saepe in",
+          "lang": "eng"
+        },
+        {
+          "value": "tempora quis facilis",
+          "lang": "eng"
+        },
+        {
+          "value": "debitis culpa nihil",
+          "lang": "eng"
+        },
+        {
+          "value": "qui totam dignissimos",
+          "lang": "eng"
+        },
+        {
+          "value": "voluptas beatae sint",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1719-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "258D2804F69A2CD923366A54D1EA812DBA7430F0",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/258D2804F69A2CD923366A54D1EA812DBA7430F0/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    }
+  ]
+}
