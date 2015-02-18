@@ -1,1 +1,653 @@
-_jqjsp({"stats":{"elasticsearch":{"took":27,"timed_out":false,"_shards":{"total":160,"successful":160,"failed":0},"total":751809,"max_score":2.889876},"istex-data":{"took":53},"istex-rp":{"took":1351}},"total":751809,"hits":[{"serie":{"genre":[],"title":"Early English books online","language":[]},"genre":[],"author":[{"name":"Ridley, Humphrey 1653-1708"}],"title":"anatomy of the brain","corpusName":"eebo","subject":[{"value":"Brain","lang":"eng"},{"value":"Animal locomotion","lang":"eng"}],"pubdate":"1695","language":["eng"],"id":"4358BF1FE3E25D7464111D4F089F265DB991FA3E","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/mods"}],"covers":[],"annexes":[]},{"serie":{"genre":[],"title":"Early English books online","language":[]},"genre":[],"author":[{"name":"Yonge, James 1647-1721"}],"title":"Wounds of the brain proved curable","corpusName":"eebo","subject":[{"value":"Brain","lang":"eng"},{"value":"Wounds and injuries","lang":"eng"}],"pubdate":"1682","language":["eng"],"id":"B91DF34EF230361541016996669C76585F4A578A","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Social Sciences","Primary Document"],"author":[{"name":"Harriet Air-Brain"}],"title":"A most eloquent and panegyrical petition to the Prime Minister; by Harriet Air-Brain. Dedicated to Peter Pindar, Esq.","corpusName":"ecco","subject":[{"value":"Compliments","lang":"eng"},{"value":"Petition, Right of","lang":"eng"}],"pubdate":"1790-01-01","language":["eng"],"id":"5B150DCD73F5A66D310997819DAFA43270CD8427","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/mods"}],"covers":[],"annexes":[]},{"serie":{"genre":[],"title":"Early English books online","language":[]},"genre":[],"author":[{"name":"Willis, Thomas 1621-1675"},{"name":"Pordage, Samuel 1633-1691?"}],"title":"essay of the pathology of the brain and nervous stock","corpusName":"eebo","subject":[{"value":"Brain","lang":"eng"},{"value":"Diseases","lang":"eng"},{"value":"Nervous system","lang":"eng"},{"value":"Diseases","lang":"eng"},{"value":"Scurvy","lang":"eng"}],"pubdate":"1684","language":["eng","lat"],"id":"954340B665F3049BAB2ED9C6BCA9DD5630786B9A","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/mods"}],"covers":[],"annexes":[]},{"serie":{"genre":[],"title":"Early English books online","language":[]},"genre":[],"author":[{"name":"Willis, Thomas 1621-1675"}],"title":"Five treatises","corpusName":"eebo","subject":[{"value":"Physiology","lang":"eng"},{"value":"Brain","lang":"eng"},{"value":"Anatomy","lang":"eng"},{"value":"Nervous system","lang":"eng"}],"pubdate":"MDCLXXXI [1681]","language":["eng"],"id":"4B87EEE09474A2F1BF62C4855088AE891F7A3A6A","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"R. Leny"}],"title":"Remarkable case of a boy, who lost a considerable portion of brain, and is recovered, without detriment to any faculty, mental or corporeal. By R. Leny.","corpusName":"ecco","subject":[{"value":"Brain","lang":"eng"},{"value":"Wounds and injuries","lang":"eng"}],"pubdate":"1792-01-01","language":["eng"],"id":"70CDAAEA65A6A999A887AE35D4D0A264D4D3077D","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Medicine, Science and Technology","Primary Document"],"author":[{"name":"Robert Whytt 1714-1766"}],"title":"Observations on the dropsy in the brain, By Robert Whytt, M.D. late physician to His Majesty, president of the Royal College of Physicians, professor of medicine in the University of Edinburgh, and F.R.S. To which are added, his other treatises never hitherto published by themselves.","corpusName":"ecco","subject":[{"value":"Edema","lang":"eng"},{"value":"Brain","lang":"eng"}],"pubdate":"1768-01-01","language":["eng"],"id":"DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Social Sciences","Primary Document"],"title":"A dream. My brain having of late been much disordered with politics, ...","corpusName":"ecco","subject":[{"value":"Municipal government","lang":"eng"},{"value":"Scotland","lang":"eng"},{"value":"Edinburgh","lang":"eng"}],"undefined":[{"name":""}],"pubdate":"1777-01-01","language":["eng"],"id":"788CA130828F19CF3D2AE909D1F87EE3BF7A1F09","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/mods"}],"covers":[],"annexes":[]},{"serie":{"genre":[],"title":"Early English books online","language":[]},"genre":[],"author":[{"name":"Willis, Thomas 1621-1675"},{"name":"Pordage, Samuel 1633-1691?"}],"title":"essay of the pathology of the brain and nervous stock","corpusName":"eebo","subject":[{"value":"Nervous system","lang":"eng"},{"value":"Diseases","lang":"eng"},{"value":"Scurvy","lang":"eng"}],"pubdate":"1681","language":["eng"],"id":"707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/mods"}],"covers":[],"annexes":[]},{"genre":["Social Sciences","Primary Document"],"author":[{"name":"Alexander Monro 1733-1817"}],"title":"Three treatises. On the brain, the eye, and the ear. Illustrated by tables. By Alexander Monro, M. D. Professor of Medicine, Anatomy, and Surgery, in the University of Edinburgh; Fellow of the Royal College of Physicians, and of the Royal Society, of Edinburgh; and fellow of the Royal Academy of Surgery of Paris.","corpusName":"ecco","subject":[{"value":"Brain","lang":"eng"},{"value":"Ear","lang":"eng"},{"value":"Eye","lang":"eng"}],"pubdate":"1797-01-01","language":["eng"],"id":"1990713FDB34DC889032D35B56B1B4065281FB4F","fulltext":[{"type":"tiff","mimetype":"image/tiff","original":true,"uri":"https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/tiff"},{"type":"zip","mimetype":"application/zip","original":false,"uri":"https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/zip"}],"metadata":[{"type":"xml","mimetype":"application/xml","original":true,"uri":"https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/xml"},{"type":"mods","mimetype":"application/mods+xml","original":false,"uri":"https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/mods"}],"covers":[],"annexes":[]}]})
+_jqjsp({
+  "stats": {
+    "elasticsearch": {
+      "took": 297,
+      "timed_out": false,
+      "_shards": {
+        "total": 160,
+        "successful": 160,
+        "failed": 0
+      },
+      "total": 751809,
+      "max_score": 2.889876
+    },
+    "istex-data": {
+      "took": 117
+    },
+    "istex-rp": {
+      "took": 1428
+    }
+  },
+  "total": 751809,
+  "hits": [
+    {
+      "serie": {
+        "genre": [],
+        "title": "et rerum et fugit quo quisquam",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Herman Little"
+        }
+      ],
+      "title": "quis hic est mollitia nam fugit eos quidem quaerat",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "nesciunt quis voluptatem",
+          "lang": "eng"
+        },
+        {
+          "value": "dolorem unde quibusdam",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1695",
+      "language": [
+        "eng"
+      ],
+      "id": "4358BF1FE3E25D7464111D4F089F265DB991FA3E",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4358BF1FE3E25D7464111D4F089F265DB991FA3E/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "quia aut maxime voluptas",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Dino Buckridge"
+        }
+      ],
+      "title": "est blanditiis earum dicta optio iusto sapiente",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "hic quibusdam rerum",
+          "lang": "eng"
+        },
+        {
+          "value": "nam placeat unde",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1682",
+      "language": [
+        "eng"
+      ],
+      "id": "B91DF34EF230361541016996669C76585F4A578A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/B91DF34EF230361541016996669C76585F4A578A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Asha Boyle"
+        }
+      ],
+      "title": "voluptatem error hic rerum ut",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "sed a nemo",
+          "lang": "eng"
+        },
+        {
+          "value": "et numquam incidunt",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1790-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "5B150DCD73F5A66D310997819DAFA43270CD8427",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/5B150DCD73F5A66D310997819DAFA43270CD8427/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "qui odio ab",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Randal Konopelski"
+        },
+        {
+          "name": "Queen Feest"
+        }
+      ],
+      "title": "aspernatur non beatae sed libero placeat atque asperiores minima rem",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "adipisci debitis eligendi",
+          "lang": "eng"
+        },
+        {
+          "value": "nemo dolore laboriosam",
+          "lang": "eng"
+        },
+        {
+          "value": "nihil iste dicta",
+          "lang": "eng"
+        },
+        {
+          "value": "vel veniam voluptatem",
+          "lang": "eng"
+        },
+        {
+          "value": "et ut nostrum",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1684",
+      "language": [
+        "eng",
+        "lat"
+      ],
+      "id": "954340B665F3049BAB2ED9C6BCA9DD5630786B9A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/954340B665F3049BAB2ED9C6BCA9DD5630786B9A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "qui est aperiam vitae",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Estel Rodriguez"
+        }
+      ],
+      "title": "officiis ea magni eos explicabo nemo et tempora amet est",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "velit odio quia",
+          "lang": "eng"
+        },
+        {
+          "value": "iste incidunt voluptatem",
+          "lang": "eng"
+        },
+        {
+          "value": "aut est quos",
+          "lang": "eng"
+        },
+        {
+          "value": "soluta et voluptatibus",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "MDCLXXXI [1681]",
+      "language": [
+        "eng"
+      ],
+      "id": "4B87EEE09474A2F1BF62C4855088AE891F7A3A6A",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/4B87EEE09474A2F1BF62C4855088AE891F7A3A6A/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Rashad Pagac"
+        }
+      ],
+      "title": "quae eligendi at accusantium reprehenderit",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "quisquam possimus explicabo",
+          "lang": "eng"
+        },
+        {
+          "value": "libero reiciendis possimus",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1792-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "70CDAAEA65A6A999A887AE35D4D0A264D4D3077D",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/70CDAAEA65A6A999A887AE35D4D0A264D4D3077D/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Medicine, Science and Technology",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Julio Padberg"
+        }
+      ],
+      "title": "quia est quidem molestiae vel corporis qui quia et ratione",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "dolorem dolore sit",
+          "lang": "eng"
+        },
+        {
+          "value": "et itaque dolorem",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1768-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/DD9AD2AF3940D70FFDD48281B745DAFE939BFDDA/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "title": "quasi et numquam et quia voluptatem",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "ad praesentium et",
+          "lang": "eng"
+        },
+        {
+          "value": "esse enim aut",
+          "lang": "eng"
+        },
+        {
+          "value": "exercitationem voluptatibus dolorem",
+          "lang": "eng"
+        }
+      ],
+      "undefined": [
+        {
+          "name": ""
+        }
+      ],
+      "pubdate": "1777-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "788CA130828F19CF3D2AE909D1F87EE3BF7A1F09",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/788CA130828F19CF3D2AE909D1F87EE3BF7A1F09/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "serie": {
+        "genre": [],
+        "title": "iure nulla dignissimos tenetur tempore",
+        "language": []
+      },
+      "genre": [],
+      "author": [
+        {
+          "name": "Johanna Moen"
+        },
+        {
+          "name": "Elna Gerhold"
+        }
+      ],
+      "title": "laudantium suscipit voluptates sed in amet occaecati",
+      "corpusName": "eebo",
+      "subject": [
+        {
+          "value": "unde placeat fugit",
+          "lang": "eng"
+        },
+        {
+          "value": "sit modi explicabo",
+          "lang": "eng"
+        },
+        {
+          "value": "ducimus consequatur minus",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1681",
+      "language": [
+        "eng"
+      ],
+      "id": "707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/707BF1276B8DCBAAAC86F9BDE2541E8DC75D435D/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    },
+    {
+      "genre": [
+        "Social Sciences",
+        "Primary Document"
+      ],
+      "author": [
+        {
+          "name": "Edd Little"
+        }
+      ],
+      "title": "adipisci a debitis exercitationem illo illum nemo",
+      "corpusName": "ecco",
+      "subject": [
+        {
+          "value": "rem asperiores adipisci",
+          "lang": "eng"
+        },
+        {
+          "value": "cum sit ut",
+          "lang": "eng"
+        },
+        {
+          "value": "delectus voluptate quisquam",
+          "lang": "eng"
+        }
+      ],
+      "pubdate": "1797-01-01",
+      "language": [
+        "eng"
+      ],
+      "id": "1990713FDB34DC889032D35B56B1B4065281FB4F",
+      "fulltext": [
+        {
+          "type": "tiff",
+          "mimetype": "image/tiff",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/tiff"
+        },
+        {
+          "type": "zip",
+          "mimetype": "application/zip",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/fulltext/zip"
+        }
+      ],
+      "metadata": [
+        {
+          "type": "xml",
+          "mimetype": "application/xml",
+          "original": true,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/xml"
+        },
+        {
+          "type": "mods",
+          "mimetype": "application/mods+xml",
+          "original": false,
+          "uri": "https://api.istex.fr/document/1990713FDB34DC889032D35B56B1B4065281FB4F/metadata/mods"
+        }
+      ],
+      "covers": [],
+      "annexes": []
+    }
+  ]
+})

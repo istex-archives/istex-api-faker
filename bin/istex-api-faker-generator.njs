@@ -43,12 +43,16 @@ async.each(urls, function (reqData, cb) {
         }
         process.exit(1);
       }
-      try {
-        res.body = JSON.parse(res.text);
-        res.body = fakeIstexApiJSON(res.body);
-        fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringyfy(res.body, null, '  '), cb);
-      } catch (err) {
-        fs.writeFile(__dirname + '/../data/' + reqData.filename, res.text, cb);
+      if (/^_jqjsp\(/.test(res.text)) {
+        // jsonp
+        res.text = res.text.replace(/^_jqjsp\(/, '');
+        res.text = res.text.replace(/\)$/, '');
+        res.body = fakeIstexApiJSON(JSON.parse(res.text));
+        fs.writeFile(__dirname + '/../data/' + reqData.filename,
+                     '_jqjsp(' + JSON.stringify(res.body, null, '  ') + ')', cb);
+      } else {
+        // json
+        fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringify(res.body, null, '  '), cb);
       }
       console.log('Downloaded ' + reqData.url)
     });
