@@ -2,6 +2,8 @@
 
 Programme permettant de créer un serveur Web simulant une API Istex avec quelques données.
 
+[![Build Status](https://travis-ci.org/istex/istex-api-faker.svg)](https://travis-ci.org/istex/istex-api-faker)
+
 ## Installation
 
 ```
