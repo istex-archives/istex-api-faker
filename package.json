@@ -28,5 +28,9 @@
   "devDependencies": {
     "chai": "^2.0.0",
     "mocha": "^2.1.0"
-  }
+  },
+  "bin": {
+    "istex-api-faker": "./bin/istex-api-faker.njs",
+    "istex-api-faker-generator": "./bin/istex-api-faker-generator.njs"
+  },
 }
