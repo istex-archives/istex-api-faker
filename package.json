@@ -32,5 +32,5 @@
   "bin": {
     "istex-api-faker": "./bin/istex-api-faker.njs",
     "istex-api-faker-generator": "./bin/istex-api-faker-generator.njs"
-  },
+  }
 }
