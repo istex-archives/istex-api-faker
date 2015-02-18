@@ -41,7 +41,6 @@ async.each(urls, function (reqData, cb) {
         process.exit(1);
       }
       console.log('Downloaded ' + reqData.url)
-      console.log('           to ' + reqData.filename)
       res.body = fakeIstexApiJSON(res.body);
       fs.writeFile(__dirname + '/../data/' + reqData.filename, JSON.stringify(res.body), cb);
     });
