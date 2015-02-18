@@ -1,7 +1,7 @@
 {
   "stats": {
     "elasticsearch": {
-      "took": 121,
+      "took": 22,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 68
+      "took": 47
     },
     "istex-rp": {
-      "took": 1114
+      "took": 1768
     }
   },
   "total": 751809,
