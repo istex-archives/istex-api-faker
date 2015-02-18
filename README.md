@@ -28,9 +28,9 @@ cd istex-api-faker/
 ./bin/istex-api-faker-generator.njs
 ```
 
-Les données seront alors téléchargées dans le répertoire ''data/''
+Les données seront alors téléchargées dans le répertoire ``data/``
 
-Vous devez être autorisé par l'[API Istex de production](https://api.istex.fr). Pour cela, créez un fichier ''config.local.js'' où vous placerez vos identifiants. Exemple :
+Vous devez être autorisé par l'[API Istex de production](https://api.istex.fr). Pour cela, créez un fichier ``config.local.js`` où vous placerez vos identifiants. Exemple :
 ```json
 {
   "username": "chuck.norris@univers.fr",
