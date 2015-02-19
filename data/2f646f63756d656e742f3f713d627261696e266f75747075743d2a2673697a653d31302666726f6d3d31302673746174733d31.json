@@ -1,7 +1,7 @@
 {
   "stats": {
     "elasticsearch": {
-      "took": 20,
+      "took": 15,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 83
+      "took": 30
     },
     "istex-rp": {
-      "took": 980
+      "took": 694
     }
   },
   "total": 751809,
@@ -25,31 +25,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "cumque magnam totam modi optio voluptate voluptatem expedita vero",
+      "title": "fuga esse dolores neque ut laudantium deserunt molestias",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "iure provident minus",
+          "value": "ullam commodi tempora",
           "lang": "eng"
         },
         {
-          "value": "id est quia",
+          "value": "dolore velit nam",
           "lang": "eng"
         },
         {
-          "value": "hic pariatur in",
+          "value": "explicabo molestias omnis",
           "lang": "eng"
         },
         {
-          "value": "tenetur vero sunt",
+          "value": "nesciunt laudantium molestias",
           "lang": "eng"
         },
         {
-          "value": "nihil ipsam deserunt",
+          "value": "iste rerum sit",
           "lang": "eng"
         },
         {
-          "value": "perferendis quia modi",
+          "value": "maiores aut omnis",
           "lang": "eng"
         }
       ],
@@ -101,14 +101,14 @@
       ],
       "author": [
         {
-          "name": "Murphy Hegmann"
+          "name": "Francesco Barrows"
         }
       ],
-      "title": "quam consequatur rem magni et dolor",
+      "title": "eos voluptas vero",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "repellat repudiandae ab",
+          "value": "praesentium repellat et",
           "lang": "eng"
         }
       ],
@@ -153,31 +153,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "beatae repellat omnis praesentium porro laborum",
+      "title": "quam labore voluptates cumque numquam atque commodi saepe possimus aspernatur",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "blanditiis est quasi",
+          "value": "unde quidem voluptatem",
           "lang": "eng"
         },
         {
-          "value": "omnis sint praesentium",
+          "value": "aliquid blanditiis et",
           "lang": "eng"
         },
         {
-          "value": "iure quia quis",
+          "value": "repellat aliquid et",
           "lang": "eng"
         },
         {
-          "value": "ducimus doloremque assumenda",
+          "value": "facere reprehenderit minima",
           "lang": "eng"
         },
         {
-          "value": "excepturi aut eveniet",
+          "value": "corporis unde ut",
           "lang": "eng"
         },
         {
-          "value": "aut officiis dicta",
+          "value": "dolorem voluptatum molestiae",
           "lang": "eng"
         }
       ],
@@ -229,14 +229,14 @@
       ],
       "author": [
         {
-          "name": "Rogers Keeling"
+          "name": "Edwin Kozey"
         }
       ],
-      "title": "nihil maxime consequatur soluta quas rem",
+      "title": "alias ipsa id rerum omnis quidem quae pariatur sed",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "natus et amet",
+          "value": "quia consequatur nobis",
           "lang": "eng"
         }
       ],
@@ -283,22 +283,22 @@
       ],
       "author": [
         {
-          "name": "Andrew O'Kon"
+          "name": "Dedrick Hyatt"
         }
       ],
-      "title": "sed velit adipisci beatae",
+      "title": "eum voluptas quis repellat amet earum similique",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "voluptas laborum ex",
+          "value": "quia consequatur quam",
           "lang": "eng"
         },
         {
-          "value": "omnis voluptas fuga",
+          "value": "et expedita aut",
           "lang": "eng"
         },
         {
-          "value": "aut qui alias",
+          "value": "molestias reprehenderit magni",
           "lang": "eng"
         }
       ],
@@ -344,14 +344,14 @@
       ],
       "author": [
         {
-          "name": "Bryon Wintheiser"
+          "name": "Karli Altenwerth"
         }
       ],
-      "title": "est enim aperiam repellat alias",
+      "title": "doloribus ut dolor et est numquam",
       "corpusName": "nature",
       "host": {
         "genre": [],
-        "title": "nam tenetur praesentium dolorem",
+        "title": "ipsa officiis delectus ad qui dolores quo deleniti consectetur",
         "language": []
       },
       "pubdate": "1964-07-04",
@@ -408,18 +408,18 @@
       ],
       "author": [
         {
-          "name": "Laura Sauer"
+          "name": "Audie Wintheiser"
         }
       ],
-      "title": "esse sit commodi nam placeat",
+      "title": "veniam quia autem facere natus",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "non exercitationem voluptatum",
+          "value": "voluptas eaque ad",
           "lang": "eng"
         },
         {
-          "value": "quibusdam unde corrupti",
+          "value": "libero sed modi",
           "lang": "eng"
         }
       ],
@@ -462,36 +462,36 @@
     {
       "serie": {
         "genre": [],
-        "title": "ut dolores repellendus dolore molestias animi fugit",
+        "title": "tenetur eum recusandae natus omnis rerum debitis autem quo fuga",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Van Wilderman"
+          "name": "Edyth Wintheiser"
         }
       ],
-      "title": "qui est qui culpa reiciendis sunt",
+      "title": "adipisci facilis autem qui eius et quia non aut",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "ut qui mollitia",
+          "value": "fugit in et",
           "lang": "eng"
         },
         {
-          "value": "aut nam doloribus",
+          "value": "quae inventore quisquam",
           "lang": "eng"
         },
         {
-          "value": "aut alias ducimus",
+          "value": "voluptatibus dolorem dolorem",
           "lang": "eng"
         },
         {
-          "value": "ut consequatur facilis",
+          "value": "dolor placeat non",
           "lang": "eng"
         },
         {
-          "value": "omnis dignissimos earum",
+          "value": "dolores non reprehenderit",
           "lang": "eng"
         }
       ],
@@ -543,25 +543,25 @@
       ],
       "author": [
         {
-          "name": "Hettie Dickens"
+          "name": "Imogene Rosenbaum"
         },
         {
-          "name": "Clemens Daniel"
+          "name": "Madge Pouros"
         }
       ],
-      "title": "impedit libero dolores distinctio iste architecto nihil inventore hic ex",
+      "title": "repellendus ab est enim illum laboriosam quisquam",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "explicabo dolore voluptas",
+          "value": "itaque tenetur eum",
           "lang": "eng"
         },
         {
-          "value": "velit eos et",
+          "value": "dolores fuga quis",
           "lang": "eng"
         },
         {
-          "value": "laboriosam est culpa",
+          "value": "quibusdam et excepturi",
           "lang": "eng"
         }
       ],
@@ -625,31 +625,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "est eos expedita aliquid et ut",
+      "title": "aut voluptatem unde cumque minima",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "amet esse omnis",
+          "value": "consequuntur atque animi",
           "lang": "eng"
         },
         {
-          "value": "pariatur saepe in",
+          "value": "a alias rerum",
           "lang": "eng"
         },
         {
-          "value": "tempora quis facilis",
+          "value": "rerum et consequuntur",
           "lang": "eng"
         },
         {
-          "value": "debitis culpa nihil",
+          "value": "provident quo neque",
           "lang": "eng"
         },
         {
-          "value": "qui totam dignissimos",
+          "value": "autem ex occaecati",
           "lang": "eng"
         },
         {
-          "value": "voluptas beatae sint",
+          "value": "sed consequatur animi",
           "lang": "eng"
         }
       ],

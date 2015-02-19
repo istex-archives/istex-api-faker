@@ -1,7 +1,7 @@
-{
+_jqjsp({
   "stats": {
     "elasticsearch": {
-      "took": 25,
+      "took": 28,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 84
+      "took": 24
     },
     "istex-rp": {
-      "took": 628
+      "took": 1006
     }
   },
   "total": 751809,
@@ -23,24 +23,24 @@
     {
       "serie": {
         "genre": [],
-        "title": "id eum similique vel",
+        "title": "in eos id",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Leo Renner"
+          "name": "Justice Mohr"
         }
       ],
-      "title": "cumque dolorem sunt provident eum",
+      "title": "fugit exercitationem aliquam",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "minus eligendi ratione",
+          "value": "dignissimos sit exercitationem",
           "lang": "eng"
         },
         {
-          "value": "voluptatem dolores minima",
+          "value": "quisquam ut in",
           "lang": "eng"
         }
       ],
@@ -83,24 +83,24 @@
     {
       "serie": {
         "genre": [],
-        "title": "rerum qui aperiam facere consequatur sed maxime",
+        "title": "facere assumenda tempore minus ad ipsam molestiae",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Alfreda Gutmann"
+          "name": "Magnolia Schumm"
         }
       ],
-      "title": "fugit eum natus recusandae voluptas cum nam in quidem",
+      "title": "totam dolor rerum consequatur voluptatem reprehenderit qui perferendis",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "aliquid tenetur dolores",
+          "value": "saepe inventore facilis",
           "lang": "eng"
         },
         {
-          "value": "error quam eligendi",
+          "value": "voluptates nostrum maxime",
           "lang": "eng"
         }
       ],
@@ -147,18 +147,18 @@
       ],
       "author": [
         {
-          "name": "Kaia Hamill"
+          "name": "Reanna Lang"
         }
       ],
-      "title": "consequatur eos neque reiciendis harum saepe",
+      "title": "illo aliquid nihil quibusdam harum",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "qui dolores placeat",
+          "value": "cum vel omnis",
           "lang": "eng"
         },
         {
-          "value": "saepe pariatur cumque",
+          "value": "dignissimos laboriosam dolores",
           "lang": "eng"
         }
       ],
@@ -201,39 +201,39 @@
     {
       "serie": {
         "genre": [],
-        "title": "alias unde veritatis autem a qui quo ratione",
+        "title": "pariatur commodi ut qui",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Tre Rodriguez"
+          "name": "Britney Jacobi"
         },
         {
-          "name": "Bettye Wintheiser"
+          "name": "Isobel Veum"
         }
       ],
-      "title": "laudantium consequuntur modi consequatur itaque optio",
+      "title": "ut qui accusamus earum recusandae vel doloribus perspiciatis sed dolorem",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "est praesentium facere",
+          "value": "dolor et ipsam",
           "lang": "eng"
         },
         {
-          "value": "eum asperiores corrupti",
+          "value": "qui accusantium rerum",
           "lang": "eng"
         },
         {
-          "value": "culpa et occaecati",
+          "value": "minima blanditiis et",
           "lang": "eng"
         },
         {
-          "value": "nostrum mollitia quia",
+          "value": "harum modi voluptatem",
           "lang": "eng"
         },
         {
-          "value": "ipsa autem ut",
+          "value": "tenetur dolores eius",
           "lang": "eng"
         }
       ],
@@ -277,32 +277,32 @@
     {
       "serie": {
         "genre": [],
-        "title": "aut placeat dolorem ipsam porro rem",
+        "title": "provident quidem dicta",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Crystal Williamson"
+          "name": "Destini Schneider"
         }
       ],
-      "title": "tenetur rerum incidunt laboriosam sit autem rerum voluptatem",
+      "title": "modi aut similique possimus",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "aperiam et doloribus",
+          "value": "dolorem ducimus illum",
           "lang": "eng"
         },
         {
-          "value": "distinctio aut accusamus",
+          "value": "nostrum aliquam inventore",
           "lang": "eng"
         },
         {
-          "value": "qui aut omnis",
+          "value": "et sit doloribus",
           "lang": "eng"
         },
         {
-          "value": "quibusdam repudiandae culpa",
+          "value": "nisi est ipsum",
           "lang": "eng"
         }
       ],
@@ -349,18 +349,18 @@
       ],
       "author": [
         {
-          "name": "Preston Becker"
+          "name": "Vaughn Ernser"
         }
       ],
-      "title": "expedita amet ut necessitatibus a eos beatae veritatis voluptatum similique",
+      "title": "possimus sequi fuga tenetur sunt est perferendis molestiae occaecati",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "dolorem nostrum eius",
+          "value": "voluptatem qui ut",
           "lang": "eng"
         },
         {
-          "value": "sunt iure aut",
+          "value": "qui id rerum",
           "lang": "eng"
         }
       ],
@@ -407,18 +407,18 @@
       ],
       "author": [
         {
-          "name": "Murray Wilkinson"
+          "name": "Mason Stroman"
         }
       ],
-      "title": "dolorem nihil est occaecati veniam et similique aut",
+      "title": "maxime eligendi doloribus adipisci rerum necessitatibus nihil et minus error",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "dolores iusto consequatur",
+          "value": "veritatis tempore impedit",
           "lang": "eng"
         },
         {
-          "value": "recusandae ut corporis",
+          "value": "consectetur officia tempore",
           "lang": "eng"
         }
       ],
@@ -463,19 +463,19 @@
         "Social Sciences",
         "Primary Document"
       ],
-      "title": "placeat eius incidunt aut ullam ipsum eos",
+      "title": "aut voluptas doloremque eius beatae sit",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "et illum ex",
+          "value": "a laborum in",
           "lang": "eng"
         },
         {
-          "value": "aliquid dignissimos fugit",
+          "value": "autem dolores excepturi",
           "lang": "eng"
         },
         {
-          "value": "eaque omnis et",
+          "value": "dolorem nemo sunt",
           "lang": "eng"
         }
       ],
@@ -523,31 +523,31 @@
     {
       "serie": {
         "genre": [],
-        "title": "vel quasi aperiam dignissimos",
+        "title": "doloremque consequatur ut sed aut qui qui temporibus ea",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Aileen Spencer"
+          "name": "Fletcher Berge"
         },
         {
-          "name": "Frederique Gutmann"
+          "name": "Ulices Conn"
         }
       ],
-      "title": "illum vel laudantium unde",
+      "title": "non aut omnis",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "animi aliquam ut",
+          "value": "qui aut aut",
           "lang": "eng"
         },
         {
-          "value": "soluta dolorum aliquam",
+          "value": "optio rerum voluptas",
           "lang": "eng"
         },
         {
-          "value": "numquam eum accusamus",
+          "value": "mollitia ipsa rerum",
           "lang": "eng"
         }
       ],
@@ -594,22 +594,22 @@
       ],
       "author": [
         {
-          "name": "Cali Wiza"
+          "name": "Narciso Green"
         }
       ],
-      "title": "voluptatem reprehenderit ex voluptatem",
+      "title": "eos qui saepe reprehenderit dolorem accusantium et",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "et eaque enim",
+          "value": "maxime cumque aut",
           "lang": "eng"
         },
         {
-          "value": "consequatur maxime explicabo",
+          "value": "quasi vitae fugiat",
           "lang": "eng"
         },
         {
-          "value": "aspernatur dolorem debitis",
+          "value": "sit ad aut",
           "lang": "eng"
         }
       ],
@@ -650,4 +650,4 @@
       "annexes": []
     }
   ]
-}
+})

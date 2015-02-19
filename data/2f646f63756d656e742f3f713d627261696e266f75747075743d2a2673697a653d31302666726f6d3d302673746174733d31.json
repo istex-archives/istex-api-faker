@@ -1,7 +1,7 @@
-_jqjsp({
+{
   "stats": {
     "elasticsearch": {
-      "took": 64,
+      "took": 16,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@ _jqjsp({
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 56
+      "took": 36
     },
     "istex-rp": {
-      "took": 1694
+      "took": 517
     }
   },
   "total": 751809,
@@ -23,24 +23,24 @@ _jqjsp({
     {
       "serie": {
         "genre": [],
-        "title": "excepturi id consectetur recusandae maiores dolorum saepe",
+        "title": "ea asperiores ut sequi perspiciatis consequatur quis",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Santiago Torp"
+          "name": "Ryder Friesen"
         }
       ],
-      "title": "saepe officiis accusamus et iusto autem",
+      "title": "quia laborum id accusamus inventore nam repellendus dolor sint exercitationem",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "et voluptatibus perspiciatis",
+          "value": "quaerat non unde",
           "lang": "eng"
         },
         {
-          "value": "voluptatibus et et",
+          "value": "qui aut et",
           "lang": "eng"
         }
       ],
@@ -83,24 +83,24 @@ _jqjsp({
     {
       "serie": {
         "genre": [],
-        "title": "corporis est quibusdam quaerat ad soluta",
+        "title": "sint ut mollitia natus assumenda odit ea sequi tempore",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Marquis Yost"
+          "name": "Dorothy Reichel"
         }
       ],
-      "title": "sequi dolores rerum corporis ad eligendi repellendus",
+      "title": "laudantium dolor exercitationem minima et itaque",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "a quia saepe",
+          "value": "debitis hic sit",
           "lang": "eng"
         },
         {
-          "value": "impedit aut architecto",
+          "value": "eos impedit voluptatum",
           "lang": "eng"
         }
       ],
@@ -147,18 +147,18 @@ _jqjsp({
       ],
       "author": [
         {
-          "name": "Ulices Shanahan"
+          "name": "Keeley Kerluke"
         }
       ],
-      "title": "aspernatur molestiae sint voluptatibus eaque placeat iusto unde et",
+      "title": "sint praesentium repellendus esse voluptas corrupti qui sed",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "possimus vitae et",
+          "value": "sit aliquid autem",
           "lang": "eng"
         },
         {
-          "value": "earum voluptate occaecati",
+          "value": "aut voluptates eaque",
           "lang": "eng"
         }
       ],
@@ -201,39 +201,39 @@ _jqjsp({
     {
       "serie": {
         "genre": [],
-        "title": "et quo sequi sit delectus",
+        "title": "nostrum mollitia minima tempore ullam quae deleniti",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Demetrius Blanda"
+          "name": "Zola Beier"
         },
         {
-          "name": "Jerod Bailey"
+          "name": "Orrin Nikolaus"
         }
       ],
-      "title": "enim culpa autem",
+      "title": "sint voluptatum sequi minus veritatis qui",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "veniam consectetur sequi",
+          "value": "temporibus inventore qui",
           "lang": "eng"
         },
         {
-          "value": "eligendi sequi asperiores",
+          "value": "deserunt molestias rem",
           "lang": "eng"
         },
         {
-          "value": "vel totam debitis",
+          "value": "nulla expedita distinctio",
           "lang": "eng"
         },
         {
-          "value": "et fuga amet",
+          "value": "dignissimos maxime labore",
           "lang": "eng"
         },
         {
-          "value": "deserunt quod quis",
+          "value": "necessitatibus ut asperiores",
           "lang": "eng"
         }
       ],
@@ -277,32 +277,32 @@ _jqjsp({
     {
       "serie": {
         "genre": [],
-        "title": "corrupti magnam qui dolorem",
+        "title": "aut voluptatem praesentium vero quia mollitia rerum",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Jordyn Walter"
+          "name": "Retha Gutkowski"
         }
       ],
-      "title": "quae cupiditate accusantium et voluptatem quas sequi saepe est",
+      "title": "maxime consequatur doloribus",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "veniam voluptatibus qui",
+          "value": "facilis ea corrupti",
           "lang": "eng"
         },
         {
-          "value": "odit ea molestiae",
+          "value": "asperiores perspiciatis beatae",
           "lang": "eng"
         },
         {
-          "value": "repellat inventore dignissimos",
+          "value": "facilis labore atque",
           "lang": "eng"
         },
         {
-          "value": "recusandae eius molestiae",
+          "value": "quaerat hic nihil",
           "lang": "eng"
         }
       ],
@@ -349,18 +349,18 @@ _jqjsp({
       ],
       "author": [
         {
-          "name": "Chance Wintheiser"
+          "name": "Karelle Kautzer"
         }
       ],
-      "title": "consectetur animi eius",
+      "title": "voluptas labore quod vel consequatur adipisci sed",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "ut est inventore",
+          "value": "neque ea sapiente",
           "lang": "eng"
         },
         {
-          "value": "quo aut provident",
+          "value": "accusantium est vitae",
           "lang": "eng"
         }
       ],
@@ -407,18 +407,18 @@ _jqjsp({
       ],
       "author": [
         {
-          "name": "Madison Leannon"
+          "name": "Ashlee Rath"
         }
       ],
-      "title": "possimus esse sunt quod voluptatum rerum",
+      "title": "libero illo magnam",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "voluptates fuga eaque",
+          "value": "consequuntur reprehenderit quae",
           "lang": "eng"
         },
         {
-          "value": "distinctio saepe aut",
+          "value": "error dolorum aperiam",
           "lang": "eng"
         }
       ],
@@ -463,19 +463,19 @@ _jqjsp({
         "Social Sciences",
         "Primary Document"
       ],
-      "title": "sed ducimus dignissimos",
+      "title": "assumenda ratione quasi nulla ex",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "praesentium molestiae ducimus",
+          "value": "quidem tempora culpa",
           "lang": "eng"
         },
         {
-          "value": "dolores ut omnis",
+          "value": "maxime itaque non",
           "lang": "eng"
         },
         {
-          "value": "ut quis et",
+          "value": "velit tempore quo",
           "lang": "eng"
         }
       ],
@@ -523,31 +523,31 @@ _jqjsp({
     {
       "serie": {
         "genre": [],
-        "title": "tempore sed accusamus fugiat quo sit provident hic",
+        "title": "consequatur libero temporibus vitae dolorem",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Maximo Weissnat"
+          "name": "Anderson Keebler"
         },
         {
-          "name": "Leslie Schmitt"
+          "name": "Art Fay"
         }
       ],
-      "title": "ut qui ut officia beatae atque incidunt sed",
+      "title": "ipsum omnis voluptates magni sint",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "explicabo omnis eum",
+          "value": "ratione officia in",
           "lang": "eng"
         },
         {
-          "value": "sunt quam consequatur",
+          "value": "labore harum facilis",
           "lang": "eng"
         },
         {
-          "value": "quas rerum officiis",
+          "value": "consectetur illum qui",
           "lang": "eng"
         }
       ],
@@ -594,22 +594,22 @@ _jqjsp({
       ],
       "author": [
         {
-          "name": "Amelia Medhurst"
+          "name": "Giovani Nicolas"
         }
       ],
-      "title": "ut non minima maiores eum cumque",
+      "title": "sapiente accusantium similique",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "qui suscipit impedit",
+          "value": "ut error porro",
           "lang": "eng"
         },
         {
-          "value": "enim modi quos",
+          "value": "et sequi sit",
           "lang": "eng"
         },
         {
-          "value": "ipsam ea libero",
+          "value": "exercitationem quis quam",
           "lang": "eng"
         }
       ],
@@ -650,4 +650,4 @@ _jqjsp({
       "annexes": []
     }
   ]
-})
+}

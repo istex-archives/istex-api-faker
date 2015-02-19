@@ -30,6 +30,12 @@ delete request.parse['application/json'];
 
 // download every ressources
 async.each(urls, function (reqData, cb) {
+  // calculate the filename
+  reqData.url = url.format(reqData);
+  reqData.filename = new Buffer(reqData.url).toString('hex') + '.json';
+  // calculate the real url
+  reqData.protocol = 'https';
+  reqData.hostname = 'api.istex.fr';
   reqData.url = url.format(reqData);
   // execute the HTTP GET request
   request

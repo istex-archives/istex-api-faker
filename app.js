@@ -20,17 +20,16 @@ var _       = require('lodash');
 var fs      = require('fs');
 var url     = require('url');
 var cors    = require('cors');
+var debug   = require('debug')('istex-api-faker');
 
 // to allow cross domain (ajax)
 app.use(cors());
 
-// Home page to explain the fake api and 
+// Home page to explain the fake api and
 // give a quick access to each fake url
 app.get('/', function (req, res) {
   var urlsToHtml = '';
   urls.forEach(function (item) {
-    delete item.protocol;
-    delete item.hostname;
     urlsToHtml += '<li><a href="' + url.format(item) + '">' + url.format(item) + '</a></li>';
   });
 
@@ -41,7 +40,7 @@ app.get('/', function (req, res) {
     '<p>Cette API propose un extrait de fausses données mais en respectant les JSON et la structure des URLs de l\'API Istex de production. Elle permet de réaliser des tests indépendants de l\'API Istex de production lors des développements des widgets (entre autre).</p>' +
     '<p>Voici la liste des URLs interrogeables :' +
     '<ul>' +
-      urlsToHtml + 
+      urlsToHtml +
     '</ul>' +
     '</p>' +
   '</body>' +
@@ -51,7 +50,7 @@ app.get('/', function (req, res) {
 });
 
 // Catch every GET HTTP request
-// and thy to find if a fake url in the list 
+// and thy to find if a fake url in the list
 // match the current request.
 // if it doesn't match, just return 404
 app.get('*', function (req, res) {
@@ -66,8 +65,11 @@ app.get('*', function (req, res) {
 
   var urlFound = false;
   urls.forEach(function (item) {
+    item.url = url.format(item);
+    item.filename = new Buffer(item.url).toString('hex') + '.json';
     if (item.pathname == req.path &&
         _.isEqual(item.query, req.query)) {
+
       // build the filepath and check if available
       var filepath = __dirname + '/data/' + item.filename;
       if (!fs.existsSync(filepath)) return;
