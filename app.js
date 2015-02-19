@@ -67,7 +67,7 @@ app.get('*', function (req, res) {
   urls.forEach(function (item) {
     item.url = url.format(item);
     item.filename = new Buffer(item.url).toString('hex') + '.json';
-    if (item.pathname == req.path &&
+    if (!urlFound && item.pathname == req.path &&
         _.isEqual(item.query, req.query)) {
 
       // build the filepath and check if available
