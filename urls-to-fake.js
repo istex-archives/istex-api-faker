@@ -3,42 +3,64 @@
  * in order to build a fake API
  */
 
-var urls = [];
+var _ = require('lodash');
 
-urls.push({
+var urls = [];
+var urlTmp = {};
+
+// /corpus/
+urlTmp = {
   pathname: '/corpus/',
   query: { }
-});
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
 
-urls.push({
-  pathname: '/corpus/',
-  query: { callback: '_jqjsp' }
-});
-
-urls.push({
+// /document/?q=*
+urlTmp = {
   pathname: '/document/',
   query: { q: '*' }
-});
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
 
-urls.push({
+// /document/?q=*&output=*
+urlTmp = {
   pathname: '/document/',
   query: { q: '*', output: '*' }
-});
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
 
-urls.push({
+// /document/?q=brain&output=*&size=10&from=0&stats=1
+urlTmp = {
   pathname: '/document/',
   query: { q: 'brain', output: '*', size: '10', from: '0', stats: '1' }
-});
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
 
-urls.push({
+// /document/?q=brain&output=*&size=10&from=0&stats=1
+urlTmp = {
   pathname: '/document/',
-  query: { callback: '_jqjsp', q: 'brain', output: '*', size: '10', from: '0', stats: '1' }
-});
+  query: { q: 'brain', output: '*', size: '10', from: '0', stats: '1' }
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
 
-
-urls.push({
+// /document/?q=brain&output=*&size=10&from=10&stats=1
+urlTmp = {
   pathname: '/document/',
   query: { q: 'brain', output: '*', size: '10', from: '10', stats: '1' }
-});
+};
+urls.push(_.clone(urlTmp, true));
+urlTmp.query.callback = '_jqjsp';
+urls.push(_.clone(urlTmp, true));
+
 
 module.exports = urls;

@@ -1,7 +1,7 @@
-{
+_jqjsp({
   "stats": {
     "elasticsearch": {
-      "took": 78,
+      "took": 88,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 136
+      "took": 150
     },
     "istex-rp": {
-      "took": 781
+      "took": 509
     }
   },
   "total": 751809,
@@ -25,31 +25,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "a ut officia rerum corrupti",
+      "title": "autem aut unde beatae qui minima eaque ad rerum voluptatum",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "debitis et at",
+          "value": "doloremque blanditiis voluptatibus",
           "lang": "eng"
         },
         {
-          "value": "omnis magnam quod",
+          "value": "voluptate reprehenderit sunt",
           "lang": "eng"
         },
         {
-          "value": "alias ut laboriosam",
+          "value": "tempora et commodi",
           "lang": "eng"
         },
         {
-          "value": "possimus laudantium velit",
+          "value": "temporibus rerum eos",
           "lang": "eng"
         },
         {
-          "value": "ex aliquam nesciunt",
+          "value": "libero labore eum",
           "lang": "eng"
         },
         {
-          "value": "ea ratione dolorum",
+          "value": "molestiae cupiditate ",
           "lang": "eng"
         }
       ],
@@ -101,14 +101,14 @@
       ],
       "author": [
         {
-          "name": "Blanca Zboncak"
+          "name": "Jacquelyn Bartell"
         }
       ],
-      "title": "non odio ut aut atque consequatur cum",
+      "title": "vitae voluptatum libero qui et",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "enim in veritatis",
+          "value": "autem quidem id",
           "lang": "eng"
         }
       ],
@@ -153,31 +153,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "tempore dolor facere officia sit voluptatibus nesciunt animi maxime",
+      "title": "in maxime consectetur nam",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "at dolor nulla",
+          "value": "tempora commodi et",
           "lang": "eng"
         },
         {
-          "value": "velit eaque ullam",
+          "value": "vel eveniet accusamus",
           "lang": "eng"
         },
         {
-          "value": "non ea quia",
+          "value": "doloribus dolores ipsa",
           "lang": "eng"
         },
         {
-          "value": "molestiae dolorem tempora",
+          "value": "a eveniet voluptas",
           "lang": "eng"
         },
         {
-          "value": "ipsum quod totam",
+          "value": "et et est",
           "lang": "eng"
         },
         {
-          "value": "quia consequatur rerum",
+          "value": "amet et sunt",
           "lang": "eng"
         }
       ],
@@ -229,14 +229,14 @@
       ],
       "author": [
         {
-          "name": "Thora Lemke"
+          "name": "Lucie Beer"
         }
       ],
-      "title": "eaque qui saepe aut sit accusantium omnis",
+      "title": "quo quos omnis",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "mollitia quo commodi",
+          "value": "facere aspernatur ex",
           "lang": "eng"
         }
       ],
@@ -283,22 +283,22 @@
       ],
       "author": [
         {
-          "name": "Clementina Weissnat"
+          "name": "Cathrine Crist"
         }
       ],
-      "title": "ut dignissimos velit",
+      "title": "aut ea sint consequatur illum ab praesentium",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "ullam fuga velit",
+          "value": "voluptas cum dolorem",
           "lang": "eng"
         },
         {
-          "value": "suscipit itaque aliquid",
+          "value": "quae quidem ea",
           "lang": "eng"
         },
         {
-          "value": "dicta exercitationem optio",
+          "value": "ea consequatur alias",
           "lang": "eng"
         }
       ],
@@ -344,14 +344,14 @@
       ],
       "author": [
         {
-          "name": "Wyatt Zieme"
+          "name": "Larue Hintz"
         }
       ],
-      "title": "fugit repellendus pariatur possimus qui consequatur aperiam nostrum",
+      "title": "blanditiis modi quaerat temporibus",
       "corpusName": "nature",
       "host": {
         "genre": [],
-        "title": "voluptatem quia et id voluptatibus",
+        "title": "et ea qui",
         "language": []
       },
       "pubdate": "1964-07-04",
@@ -408,18 +408,18 @@
       ],
       "author": [
         {
-          "name": "Savannah Reynolds"
+          "name": "Eleanora Skiles"
         }
       ],
-      "title": "consequuntur ab fuga accusantium ad velit voluptatem officia consequatur",
+      "title": "molestiae expedita facere magnam aspernatur sint facilis dolore et vitae",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "qui cupiditate molestias",
+          "value": "voluptatem velit dignissimos",
           "lang": "eng"
         },
         {
-          "value": "sint eveniet ipsum",
+          "value": "sed similique quod",
           "lang": "eng"
         }
       ],
@@ -462,36 +462,36 @@
     {
       "serie": {
         "genre": [],
-        "title": "magni et iure dolores enim possimus natus non",
+        "title": "nulla voluptatibus omnis blanditiis architecto ut labore odit ea",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Clint Walsh"
+          "name": "Loy Ledner"
         }
       ],
-      "title": "iste numquam qui odit iusto nesciunt sequi rerum eius rerum",
+      "title": "rem aliquid atque hic nihil aut necessitatibus sapiente id",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "vel cupiditate porro",
+          "value": "laudantium autem aut",
           "lang": "eng"
         },
         {
-          "value": "repudiandae ut aperiam",
+          "value": "provident dicta alias",
           "lang": "eng"
         },
         {
-          "value": "explicabo at accusantium",
+          "value": "facilis amet architecto",
           "lang": "eng"
         },
         {
-          "value": "dolor eaque cumque",
+          "value": "nulla cupiditate cumque",
           "lang": "eng"
         },
         {
-          "value": "voluptas nesciunt quod",
+          "value": "ut perferendis cumque",
           "lang": "eng"
         }
       ],
@@ -543,25 +543,25 @@
       ],
       "author": [
         {
-          "name": "Jayson Mraz"
+          "name": "Christophe Goodwin"
         },
         {
-          "name": "Leann Gusikowski"
+          "name": "Hellen Harris"
         }
       ],
-      "title": "corporis non aliquid voluptate",
+      "title": "omnis minus dolorum id ut dignissimos",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "autem dolor porro",
+          "value": "cupiditate repellendus placeat",
           "lang": "eng"
         },
         {
-          "value": "culpa quo esse",
+          "value": "qui ratione alias",
           "lang": "eng"
         },
         {
-          "value": "enim alias maxime",
+          "value": "sequi ut nostrum",
           "lang": "eng"
         }
       ],
@@ -625,31 +625,31 @@
         "Medicine, Science and Technology",
         "Primary Document"
       ],
-      "title": "nisi vel non aliquid magni",
+      "title": "omnis et perferendis quia",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "nihil nisi voluptatibus",
+          "value": "illum eius praesentium",
           "lang": "eng"
         },
         {
-          "value": "accusantium adipisci mollitia",
+          "value": "vitae nulla excepturi",
           "lang": "eng"
         },
         {
-          "value": "repellat est vel",
+          "value": "doloribus provident iure",
           "lang": "eng"
         },
         {
-          "value": "nesciunt unde quos",
+          "value": "libero ipsa mollitia",
           "lang": "eng"
         },
         {
-          "value": "nobis dolor harum",
+          "value": "architecto omnis aut",
           "lang": "eng"
         },
         {
-          "value": "nam numquam qui",
+          "value": "sint tempora molestias",
           "lang": "eng"
         }
       ],
@@ -695,4 +695,4 @@
       "annexes": []
     }
   ]
-}
+})

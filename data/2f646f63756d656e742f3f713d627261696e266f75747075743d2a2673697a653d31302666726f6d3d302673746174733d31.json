@@ -1,7 +1,7 @@
 {
   "stats": {
     "elasticsearch": {
-      "took": 16,
+      "took": 18,
       "timed_out": false,
       "_shards": {
         "total": 160,
@@ -12,10 +12,10 @@
       "max_score": 2.889876
     },
     "istex-data": {
-      "took": 36
+      "took": 191
     },
     "istex-rp": {
-      "took": 517
+      "took": 1691
     }
   },
   "total": 751809,
@@ -23,24 +23,24 @@
     {
       "serie": {
         "genre": [],
-        "title": "ea asperiores ut sequi perspiciatis consequatur quis",
+        "title": "aut reprehenderit repellendus provident dignissimos deleniti et natus nihil",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Ryder Friesen"
+          "name": "Leonard Stracke"
         }
       ],
-      "title": "quia laborum id accusamus inventore nam repellendus dolor sint exercitationem",
+      "title": "dolores laborum aut",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "quaerat non unde",
+          "value": "fugit est rerum",
           "lang": "eng"
         },
         {
-          "value": "qui aut et",
+          "value": "modi optio corporis",
           "lang": "eng"
         }
       ],
@@ -83,24 +83,24 @@
     {
       "serie": {
         "genre": [],
-        "title": "sint ut mollitia natus assumenda odit ea sequi tempore",
+        "title": "molestiae quo accusantium at dolor quo fugiat quod eos consequatur",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Dorothy Reichel"
+          "name": "Titus Hirthe"
         }
       ],
-      "title": "laudantium dolor exercitationem minima et itaque",
+      "title": "fugiat veniam debitis non voluptatem",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "debitis hic sit",
+          "value": "voluptatem non commodi",
           "lang": "eng"
         },
         {
-          "value": "eos impedit voluptatum",
+          "value": "quis ut qui",
           "lang": "eng"
         }
       ],
@@ -147,18 +147,18 @@
       ],
       "author": [
         {
-          "name": "Keeley Kerluke"
+          "name": "Leonardo Ziemann"
         }
       ],
-      "title": "sint praesentium repellendus esse voluptas corrupti qui sed",
+      "title": "quia voluptatem ullam qui et id eum optio aut soluta",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "sit aliquid autem",
+          "value": "aliquam facilis ad",
           "lang": "eng"
         },
         {
-          "value": "aut voluptates eaque",
+          "value": "sit dolorem odit",
           "lang": "eng"
         }
       ],
@@ -201,39 +201,39 @@
     {
       "serie": {
         "genre": [],
-        "title": "nostrum mollitia minima tempore ullam quae deleniti",
+        "title": "omnis et at fuga consequuntur adipisci autem ea cum",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Zola Beier"
+          "name": "Leann Treutel"
         },
         {
-          "name": "Orrin Nikolaus"
+          "name": "Grover Quigley"
         }
       ],
-      "title": "sint voluptatum sequi minus veritatis qui",
+      "title": "sapiente eaque fugit eum accusamus quis",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "temporibus inventore qui",
+          "value": "tenetur delectus iste",
           "lang": "eng"
         },
         {
-          "value": "deserunt molestias rem",
+          "value": "sapiente qui maxime",
           "lang": "eng"
         },
         {
-          "value": "nulla expedita distinctio",
+          "value": "impedit laborum ducimus",
           "lang": "eng"
         },
         {
-          "value": "dignissimos maxime labore",
+          "value": "aspernatur esse ratione",
           "lang": "eng"
         },
         {
-          "value": "necessitatibus ut asperiores",
+          "value": "rem delectus ut",
           "lang": "eng"
         }
       ],
@@ -277,32 +277,32 @@
     {
       "serie": {
         "genre": [],
-        "title": "aut voluptatem praesentium vero quia mollitia rerum",
+        "title": "qui nihil minus neque",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Retha Gutkowski"
+          "name": "Monty O'Reilly"
         }
       ],
-      "title": "maxime consequatur doloribus",
+      "title": "mollitia impedit qui",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "facilis ea corrupti",
+          "value": "blanditiis qui hic",
           "lang": "eng"
         },
         {
-          "value": "asperiores perspiciatis beatae",
+          "value": "eos aspernatur aperiam",
           "lang": "eng"
         },
         {
-          "value": "facilis labore atque",
+          "value": "et temporibus est",
           "lang": "eng"
         },
         {
-          "value": "quaerat hic nihil",
+          "value": "labore est quisquam",
           "lang": "eng"
         }
       ],
@@ -349,18 +349,18 @@
       ],
       "author": [
         {
-          "name": "Karelle Kautzer"
+          "name": "Buddy Anderson"
         }
       ],
-      "title": "voluptas labore quod vel consequatur adipisci sed",
+      "title": "dolorem mollitia in quis et et consequatur nulla",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "neque ea sapiente",
+          "value": "repellat ipsum fugiat",
           "lang": "eng"
         },
         {
-          "value": "accusantium est vitae",
+          "value": "repellat qui animi",
           "lang": "eng"
         }
       ],
@@ -407,18 +407,18 @@
       ],
       "author": [
         {
-          "name": "Ashlee Rath"
+          "name": "Art Hettinger"
         }
       ],
-      "title": "libero illo magnam",
+      "title": "dolores velit reprehenderit sapiente non numquam recusandae nulla non",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "consequuntur reprehenderit quae",
+          "value": "vitae dolorem quis",
           "lang": "eng"
         },
         {
-          "value": "error dolorum aperiam",
+          "value": "praesentium dignissimos nobis",
           "lang": "eng"
         }
       ],
@@ -463,19 +463,19 @@
         "Social Sciences",
         "Primary Document"
       ],
-      "title": "assumenda ratione quasi nulla ex",
+      "title": "reprehenderit laboriosam tenetur explicabo officiis repellat mollitia enim vel occaecati",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "quidem tempora culpa",
+          "value": "aut architecto quos",
           "lang": "eng"
         },
         {
-          "value": "maxime itaque non",
+          "value": "voluptatem atque nemo",
           "lang": "eng"
         },
         {
-          "value": "velit tempore quo",
+          "value": "sunt id blanditiis",
           "lang": "eng"
         }
       ],
@@ -523,31 +523,31 @@
     {
       "serie": {
         "genre": [],
-        "title": "consequatur libero temporibus vitae dolorem",
+        "title": "et molestias minima consequatur dolores tempore tenetur qui ipsam",
         "language": []
       },
       "genre": [],
       "author": [
         {
-          "name": "Anderson Keebler"
+          "name": "Kaden Lakin"
         },
         {
-          "name": "Art Fay"
+          "name": "Jennings Mertz"
         }
       ],
-      "title": "ipsum omnis voluptates magni sint",
+      "title": "assumenda rem expedita unde delectus sed voluptatum corporis",
       "corpusName": "eebo",
       "subject": [
         {
-          "value": "ratione officia in",
+          "value": "odio et quisquam",
           "lang": "eng"
         },
         {
-          "value": "labore harum facilis",
+          "value": "quis aspernatur qui",
           "lang": "eng"
         },
         {
-          "value": "consectetur illum qui",
+          "value": "optio molestiae exercitationem",
           "lang": "eng"
         }
       ],
@@ -594,22 +594,22 @@
       ],
       "author": [
         {
-          "name": "Giovani Nicolas"
+          "name": "Leonora Schinner"
         }
       ],
-      "title": "sapiente accusantium similique",
+      "title": "non id nostrum laboriosam iure",
       "corpusName": "ecco",
       "subject": [
         {
-          "value": "ut error porro",
+          "value": "error fugiat nostrum",
           "lang": "eng"
         },
         {
-          "value": "et sequi sit",
+          "value": "facilis at ducimus",
           "lang": "eng"
         },
         {
-          "value": "exercitationem quis quam",
+          "value": "blanditiis laborum dolorem",
           "lang": "eng"
         }
       ],
