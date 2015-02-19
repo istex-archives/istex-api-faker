@@ -1,6 +1,6 @@
 {
   "name": "istex-api-faker",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "ISTEX API faker. Create a Web server simulating the ISTEX API but only with few data.",
   "main": "app.js",
   "scripts": {
