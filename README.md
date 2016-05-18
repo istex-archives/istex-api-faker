@@ -43,3 +43,6 @@ Vous devez être autorisé par l'[API Istex de production](https://api.istex.fr)
   "password": "justme"
 }
 ```
+
+## Contribuer au projet
++[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=ir9mnlkdt6hxm0z9)
